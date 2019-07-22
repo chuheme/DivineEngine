@@ -1,4 +1,4 @@
-# Internet Service Provider Hijacking Protection 运营商劫持保护
+# Hijacking 反劫持（运营商及臭名昭著的网站、应用）
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189zj.cn
@@ -140,7 +140,7 @@ IP-CIDR,211.161.101.106/32,no-resolve
 IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 
-# Blocklist 黑名单
+# Infamous 声名狼藉
 DOMAIN-SUFFIX,kuaizip.com
 DOMAIN-SUFFIX,mackeeper.com
 # > Adobe
