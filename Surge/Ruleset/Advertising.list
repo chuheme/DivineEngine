@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,adsensor.org
 DOMAIN-SUFFIX,adtarget.tech
 DOMAIN-SUFFIX,adthor.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,app-adforce.jp
 DOMAIN-SUFFIX,appadhoc.com
 DOMAIN-SUFFIX,appier.net
@@ -41,13 +42,16 @@ DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,onelink.me
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,rayjump.com
+DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sdkclick.com
+DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,uri6.com
+DOMAIN-SUFFIX,voicefive.com
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,xdrig.com
 
@@ -55,6 +59,7 @@ DOMAIN-SUFFIX,ad.daum.net
 DOMAIN-SUFFIX,track.xiachufang.com
 DOMAIN,abema-adx.ameba.jp
 DOMAIN,ad.12306.cn
+DOMAIN,ad.51wnl-cq.com
 DOMAIN,ad.caiyunapp.com
 DOMAIN,ad.huajiao.com
 DOMAIN,ad.hzyoka.com
@@ -62,7 +67,9 @@ DOMAIN,ad.jiemian.com
 DOMAIN,ad.qingting.fm
 DOMAIN,ad.wappalyzer.com
 DOMAIN,ad-cn.jovcloud.com
+DOMAIN,adextra.51wnl-cq.com
 DOMAIN,ads.daydaycook.com.cn
+DOMAIN,ads.weilitoutiao.net
 DOMAIN,adsapi.manhuaren.com
 DOMAIN,adsdk.dmzj.com
 DOMAIN,adserver.pandora.com
@@ -118,6 +125,8 @@ DOMAIN,applogapi.autohome.com.cn
 # (B)
 # > Baidu
 DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,cpro.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN,afd.baidu.com
 DOMAIN,als.baidu.com
 DOMAIN,duclick.baidu.com
@@ -126,7 +135,6 @@ DOMAIN,hmma.baidu.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,nsclick.baidu.com
-DOMAIN,wn.pos.baidu.com
 # > ByteDance
 DOMAIN,applog.musical.ly
 DOMAIN,track.toutiao.com
@@ -168,7 +176,6 @@ DOMAIN,v2.log.hunantv.com
 # (I)
 # > iQiyi
 DOMAIN,ifacelog.iqiyi.com
-DOMAIN,mbdlog.iqiyi.com
 DOMAIN,msg.71.am
 DOMAIN,msg.qy.net
 DOMAIN,t7z.cupid.iqiyi.com
@@ -426,7 +433,7 @@ URL-REGEX,^https?:\/\/api\.intsig\.net\/user\/cs\/operating\/app\/get_startpic\/
 URL-REGEX,^https?:\/\/.+\/v2\/app_ads\/
 # URL-REGEX,^https?:\/\/.+\/api\/v2\/movie\/.+/ad\?
 # URL-REGEX,^https?:\/\/erebor\.douban\.com\/count\/\?ad=
-URL-REGEX,^https?:\/\/img\d{1}\.doubanio\.com\/view\/dale-online\/dale_ad/
+URL-REGEX,^https?:\/\/img\d\.doubanio\.com\/view\/dale-online\/dale_ad/
 # URL-REGEX,^https?:\/\/frodo\.douban\.com\/api\/v2\/movie\/ad
 # > 斗鱼
 URL-REGEX,^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo
@@ -440,6 +447,8 @@ URL-REGEX,^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/
 URL-REGEX,^https?:\/\/www\.dandanzan\.com\/res\/gdsefse\.js
 # > 叨鱼
 URL-REGEX,^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd
+# > 丁香医生
+URL-REGEX,^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch
 
 # E
 # > eLong(123.59.31.1,119.18.193.135)
@@ -501,7 +510,7 @@ URL-REGEX,^https?:\/\/ih2\.ireader\.com\/zycl\/api\/ad\/
 
 # J
 # > JD
-URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start
+URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=(start|queryMaterialAdverts)
 URL-REGEX,^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
 # > 界面新闻
@@ -523,7 +532,7 @@ URL-REGEX,^https?:\/\/.+\.kingsoft-office-service\.com\/ad
 # > Kingsoft PowerWord
 URL-REGEX,^https?:\/\/counter\.ksosoft\.com\/ad\.php
 URL-REGEX,^https?:\/\/dict-mobile\.iciba\.com\/interface\/index\.php\?.+(c=ad|collectFeedsAdShowCount|KSFeedsAdCardViewController)
-URL-REGEX,^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d{1}\?adjson
+URL-REGEX,^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson
 # > 快看漫画
 URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
 # > Kuwo
@@ -540,6 +549,8 @@ URL-REGEX,^https?:\/\/.+\/resource\/m\/sys\/app\/adpos
 URL-REGEX,^https?:\/\/.+\/resource\/m\/promo\/adsense
 # > 来疯直播
 URL-REGEX,^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads
+# > 懒投资
+URL-REGEX,^https?:\/\/ios\.lantouzi\.com\/api\/startpage
 
 # M
 # > MI
@@ -607,7 +618,7 @@ URL-REGEX,^https?:\/\/slapi.oray.net/client/ad
 
 # P
 # > PeanutWiFiMpass
-URL-REGEX,^https?:\/\/cmsapi\.wifi8\.com\/v\d{1}\/(emptyAd|adNew)\/
+URL-REGEX,^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/
 # > 票根
 URL-REGEX,^https?:\/\/pss\.txffp\.com\/piaogen\/images\/launchScreen/
 
@@ -724,9 +735,9 @@ URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileser
 URL-REGEX,^https?:\/\/api\.psy-1\.com\/cosleep\/startup
 # > 迅游加速器
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v1\/ios\/configs\/(splash_ad|ad_urls)
-URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d{1}\/ios\/ads\/
+URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/
 # > 喜马拉雅
-URL-REGEX,^https?:\/\/.+\/api\/v\d{1}\/adRealTime
+URL-REGEX,^https?:\/\/.+\/api\/v\d\/adRealTime
 
 # Y
 # > Yahoo!

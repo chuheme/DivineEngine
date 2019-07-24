@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,arte.tv
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,arukas.io
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,badoo.com
@@ -231,6 +232,7 @@ DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,plurk.com
+DOMAIN-SUFFIX,po18.tw
 DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,pts.org.tw
@@ -450,7 +452,6 @@ DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,pipe.aria.microsoft.com
 DOMAIN-SUFFIX,storage.msn.com
 # > Other
 DOMAIN-SUFFIX,0rz.tw
