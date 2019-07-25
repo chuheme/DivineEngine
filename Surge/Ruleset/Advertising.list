@@ -392,6 +392,8 @@ URL-REGEX,^https?:\/\/iapi\.bishijie\.com\/actopen\/advertising\/
 URL-REGEX,^https?:\/\/app\.api\.ke\.com\/config\/config\/bootpage
 # > Bank of China
 URL-REGEX,^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?
+# > Boohee
+URL-REGEX,^https?:\/\/status\.boohee\.com\/api\/v\d\/app_square\/start_up_with_ad
 
 # C
 # > China CITIC Bank
@@ -421,7 +423,7 @@ URL-REGEX,^https?:\/\/api\.chelaile\.net\.cn\/adpub\/
 # URL-REGEX,^https?:\/\/(api|atrace)\.chelaile\.net\.cn\/adpub\/
 URL-REGEX,^https?:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/
 # URL-REGEX,^https?:\/\/atrace\.chelaile\.net\.cn\/exhibit\?&adv_image
-URL-REGEX,^https?:\/\/pic1\.chelaile\.net\.cn\/adv\/
+URL-REGEX,^https?:\/\/pic\d\.chelaile\.net\.cn\/adv\/
 # > 曹操出行
 URL-REGEX,^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/
 # > CamScanner
@@ -738,6 +740,8 @@ URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v1\/ios\/configs\/(splas
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/
 # > 喜马拉雅
 URL-REGEX,^https?:\/\/.+\/api\/v\d\/adRealTime
+# > 小站
+URL-REGEX,^https?:\/\/tiku\.zhan\.com\/Common\/newAd\/
 
 # Y
 # > Yahoo!
