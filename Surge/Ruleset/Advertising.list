@@ -6,20 +6,26 @@ DOMAIN-KEYWORD,analysis
 
 DOMAIN-SUFFIX,42trck.com
 DOMAIN-SUFFIX,51.la
+DOMAIN-SUFFIX,adinfuse.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,admaster.com.cn
+DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adsensor.org
 DOMAIN-SUFFIX,adtarget.tech
 DOMAIN-SUFFIX,adthor.com
+DOMAIN-SUFFIX,adwhirl.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,app-adforce.jp
 DOMAIN-SUFFIX,appadhoc.com
+DOMAIN-SUFFIX,appads.com
 DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,applift.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,apsalar.com
 DOMAIN-SUFFIX,apxadtracking.net
+DOMAIN-SUFFIX,axonix.com
 DOMAIN-SUFFIX,cloudmobi.net
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,ctrmi.com
@@ -33,11 +39,16 @@ DOMAIN-SUFFIX,inmobicdn.cn
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,iskyworker.com
 DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,leadboltmobile.net
 DOMAIN-SUFFIX,lenzmx.com
+DOMAIN-SUFFIX,liveadvert.com
 DOMAIN-SUFFIX,lnk0.com
 DOMAIN-SUFFIX,lnk8.cn
+DOMAIN-SUFFIX,localytics.com
 DOMAIN-SUFFIX,measurementapi.com
+DOMAIN-SUFFIX,medialytics.com
 DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,onelink.me
 DOMAIN-SUFFIX,qchannel01.cn
@@ -46,6 +57,7 @@ DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sdkclick.com
 DOMAIN-SUFFIX,shuzilm.cn
+DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,tanv.com
@@ -68,6 +80,7 @@ DOMAIN,ad.qingting.fm
 DOMAIN,ad.wappalyzer.com
 DOMAIN,ad-cn.jovcloud.com
 DOMAIN,adextra.51wnl-cq.com
+DOMAIN,ads.adadapted.com
 DOMAIN,ads.daydaycook.com.cn
 DOMAIN,ads.weilitoutiao.net
 DOMAIN,adsapi.manhuaren.com
@@ -82,10 +95,12 @@ DOMAIN,app-ad.variflight.com
 DOMAIN,applog.mobike.com
 DOMAIN,appnext.hs.llnwd.net
 DOMAIN,appnext-a.akamaihd.net
+DOMAIN,data.flurry.com
 DOMAIN,ggs.myzaker.com
 DOMAIN,itad.linetv.tw
 DOMAIN,ja.chushou.tv
 DOMAIN,mads.suning.com
+DOMAIN,mobileads.msn.com
 DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
 DOMAIN,optimus-ads.amap.com
@@ -204,7 +219,12 @@ DOMAIN,rich.kuwo.cn
 # > Kingsoft
 DOMAIN,ad-stat.ksosoft.com
 DOMAIN,img.auction-ads.wpscdn.cn
+DOMAIN,counter.kingsoft.com
+DOMAIN,counter.ksosoft.com
 DOMAIN,minfo.wps.cn
+DOMAIN,mobad.ijinshan.com
+DOMAIN,ups.ksmobile.net
+DOMAIN,ws.ksmobile.net
 # (L)
 # > Le
 DOMAIN-SUFFIX,webp2p.letv.com
@@ -214,13 +234,14 @@ DOMAIN,g3.letv.com
 DOMAIN,n.mark.letv.com
 # (M)
 # > MI
+DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,admob.xiaomi.com
-DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,tracking.miui.com
-DOMAIN,adv.sec.miui.com
 DOMAIN,adv.sec.intl.miui.com
-DOMAIN,o2o.api.xiaomi.com
+DOMAIN,adv.sec.miui.com
+DOMAIN,data.mistat.xiaomi.com
+DOMAIN,tracking.intl.miui.com
 # > 墨迹天气
 DOMAIN,ad.api.moji.com
 DOMAIN,adlaunch.moji.com
@@ -255,6 +276,7 @@ DOMAIN,adnew.wifi8.com
 DOMAIN,adfile.wifi8.com
 # (S)
 # > Sina
+DOMAIN,adimg.vue.weibo.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,sax.sina.com.cn
 DOMAIN,saxs.sina.com.cn
@@ -268,6 +290,7 @@ DOMAIN,track.sohu.com
 DOMAIN,hui.sohu.com
 # (T)
 # > Tencent
+DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,l.qq.com
@@ -304,6 +327,13 @@ DOMAIN,ivy.pchouse.com.cn
 DOMAIN,adtrack.ucweb.com
 DOMAIN,applogios.uc.cn
 DOMAIN,track.uc.cn
+# > Umeng
+DOMAIN,alog.umeng.com
+DOMAIN,alog.umengcloud.com
+DOMAIN,ar.umeng.com
+DOMAIN,plbslog.umeng.com
+DOMAIN,ulogs.umeng.com
+DOMAIN,ulogs.umengcloud.com
 # (W)
 # > WiFi 万能钥匙
 DOMAIN,a.wkanx.com
@@ -316,8 +346,8 @@ DOMAIN,adse.ximalaya.com
 DOMAIN,adse.wsa.ximalaya.com
 DOMAIN,adbehavior.wsa.ximalaya.com
 # > 小红书
-DOMAIN,t-ads.xiaohongshu.com
 DOMAIN,apm-track.xiaohongshu.com
+DOMAIN,t-ads.xiaohongshu.com
 # (Y)
 # > Youku
 DOMAIN-SUFFIX,atm.youku.com
@@ -330,8 +360,6 @@ DOMAIN,pvnapp.zol.com.cn
 
 # URL
 # 0~9
-# > 2048Puzzle
-URL-REGEX,^https?:\/\/a\.applovin\.com\/3\.0\/ad
 # > 58同城
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/advertising\/
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/appadv\/
@@ -341,6 +369,7 @@ URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
 
 # A
 # > Alibaba
+URL-REGEX,^https?:\/\/gw\.alicdn\.com\/tfs\/.+-\d{4}\.jpg
 # >> 闲鱼
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/
 # >> 飞猪
@@ -350,6 +379,7 @@ URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.que
 # >> 口碑
 URL-REGEX,^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/
+URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/
 # >> UC
 URL-REGEX,^https?:\/\/huichuan\.sm\.cn\/jsad
 URL-REGEX,^https?:\/\/iflow\.uczzd\.cn\/log\/
@@ -361,6 +391,8 @@ URL-REGEX,^https?:\/\/aes\.acfun\.cn\/s\?adzones
 URL-REGEX,^https?:\/\/gw\.aihuishou\.com\/app-portal\/home\/getadvertisement
 # > APICloud
 URL-REGEX,^https?:\/\/a\.apicloud\.com\/start_page\/
+# > AppLovin
+URL-REGEX,^https?:\/\/.+\.applovin\.com\/.+\/ad
 
 # B
 # > Baidu
@@ -496,6 +528,8 @@ URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
 URL-REGEX,^https?:\/\/api\.huomao\.com\/channels\/loginAd
 # > HiveBox
 URL-REGEX,^https?:\/\/consumer\.fcbox\.com\/v\d\/ad\/
+# > 好好住
+URL-REGEX,^https?:\/\/api\.haohaozhu\.cn\/index\.php\/home\/AppInit\/getStartPhoto
 
 # I
 # > iFlytek
@@ -527,12 +561,10 @@ URL-REGEX,^https?:\/\/.+\.kakamobi\.cn\/api\/open\/v\d\/advert-sdk\/
 # > Keep
 URL-REGEX,^https?:\/\/api\.gotokeep\.com\/ads
 # > Kingsoft WPS
-URL-REGEX,^https?:\/\/counter\.ksosoft.com\/ad\.php
 URL-REGEX,^https?:\/\/ios\.wps\.cn\/ad-statistics-service
 URL-REGEX,^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/
 URL-REGEX,^https?:\/\/.+\.kingsoft-office-service\.com\/ad
 # > Kingsoft PowerWord
-URL-REGEX,^https?:\/\/counter\.ksosoft\.com\/ad\.php
 URL-REGEX,^https?:\/\/dict-mobile\.iciba\.com\/interface\/index\.php\?.+(c=ad|collectFeedsAdShowCount|KSFeedsAdCardViewController)
 URL-REGEX,^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson
 # > 快看漫画
@@ -571,7 +603,6 @@ URL-REGEX,^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/public\/getStartPageAds
 # > 美团
 URL-REGEX,^https?:\/\/img\.meituan\.net\/midas\/
-URL-REGEX,^https?:\/\/p\d\.meituan\.net\/(adunion|display|linglong|mmc|wmbanner)\/
 URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+\/linglong\/
 # > 美味不用等
 URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d/app/getstartad

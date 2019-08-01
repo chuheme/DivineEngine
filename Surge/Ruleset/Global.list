@@ -375,9 +375,6 @@ USER-AGENT,Roam*
 # > Apple
 # >> Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re
-# >> TestFlight
-DOMAIN,beta.itunes.apple.com
-DOMAIN,testflight.apple.com
 # >> iBooks Store download
 DOMAIN,books.itunes.apple.com
 # >> iTunes Store Moveis Trailers

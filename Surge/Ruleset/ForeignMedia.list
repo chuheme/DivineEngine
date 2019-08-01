@@ -46,11 +46,18 @@ DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
 # > HBO Now & HBO GO
 USER-AGENT,HBO%20NOW*
+USER-AGENT,HBO%20GO*
+USER-AGENT,HBOAsia*
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,manifest.prod.boltdns.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
@@ -127,6 +134,7 @@ DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
+IP-CIDR,35.186.224.47/32
 # > TIDAL
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com

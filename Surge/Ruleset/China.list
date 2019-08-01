@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,toutiao.com
 # > 蛋蛋赞
+DOMAIN-SUFFIX,343480.com
 DOMAIN-SUFFIX,baduziyuan.com
 DOMAIN-SUFFIX,com-hs-hkdy.com
 DOMAIN-SUFFIX,czybjz.com
@@ -80,7 +81,9 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-KEYWORD,officecdn
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN,officecdn-microsoft-com.akamaized.net
 # > NetEase
 USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
