@@ -6,11 +6,13 @@ DOMAIN-KEYWORD,analysis
 
 DOMAIN-SUFFIX,42trck.com
 DOMAIN-SUFFIX,51.la
+DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adinfuse.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,admaster.com.cn
 DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,adnyg.com
 DOMAIN-SUFFIX,adsensor.org
 DOMAIN-SUFFIX,adtarget.tech
 DOMAIN-SUFFIX,adthor.com
@@ -29,6 +31,7 @@ DOMAIN-SUFFIX,axonix.com
 DOMAIN-SUFFIX,cloudmobi.net
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,ctrmi.com
+DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,go2cloud.org
 DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,haloapps.com
@@ -60,11 +63,14 @@ DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
+DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,voicefive.com
 DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,wedolook.com
 DOMAIN-SUFFIX,xdrig.com
 
 DOMAIN-SUFFIX,ad.daum.net
@@ -95,7 +101,6 @@ DOMAIN,app-ad.variflight.com
 DOMAIN,applog.mobike.com
 DOMAIN,appnext.hs.llnwd.net
 DOMAIN,appnext-a.akamaihd.net
-DOMAIN,data.flurry.com
 DOMAIN,ggs.myzaker.com
 DOMAIN,itad.linetv.tw
 DOMAIN,ja.chushou.tv

@@ -373,6 +373,8 @@ USER-AGENT,Roam*
 
 # (The Most Popular Sites)
 # > Apple
+# >> TestFlight
+DOMAIN,testflight.apple.com
 # >> Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re
 # >> iBooks Store download
