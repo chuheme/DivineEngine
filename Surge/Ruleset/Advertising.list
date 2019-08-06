@@ -607,8 +607,10 @@ URL-REGEX,^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/
 # > 漫画人
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/public\/getStartPageAds
 # > 美团
-URL-REGEX,^https?:\/\/img\.meituan\.net\/midas\/
-URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+\/linglong\/
+URL-REGEX,^https?:\/\/img\.meituan\.net\/(display|midas)\/.+\.(gif|jpg)
+URL-REGEX,^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg
+URL-REGEX,^https?:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+\.jpg\?may_covertWebp
+URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+\/linglong\/.+\.jpg
 # > 美味不用等
 URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d/app/getstartad
 # > 咪咕
