@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,adtarget.tech
 DOMAIN-SUFFIX,adthor.com
 DOMAIN-SUFFIX,adwhirl.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,amobee.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,app-adforce.jp
 DOMAIN-SUFFIX,appadhoc.com
@@ -67,6 +68,7 @@ DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,trafficjunky.net
+DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,voicefive.com
 DOMAIN-SUFFIX,vungle.com
@@ -132,9 +134,11 @@ DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,adash.m.taobao.com
 DOMAIN,adash.man.aliyuncs.com
 DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
 DOMAIN,adash-c.ut.taobao.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashx4yt.m.taobao.com
+DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,tunion-api.m.taobao.com
 # > AutoHome
@@ -156,6 +160,7 @@ DOMAIN,mobads.baidu.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,nsclick.baidu.com
 # > ByteDance
+DOMAIN,ad.toutiao.com
 DOMAIN,applog.musical.ly
 DOMAIN,track.toutiao.com
 DOMAIN,xlog.snssdk.com
@@ -281,12 +286,14 @@ DOMAIN,adnew.wifi8.com
 DOMAIN,adfile.wifi8.com
 # (S)
 # > Sina
+DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN,adimg.vue.weibo.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,sax.sina.com.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,saxn.sina.com.cn
 # > Sohu
+DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN,imp.optaim.com
@@ -334,7 +341,9 @@ DOMAIN,applogios.uc.cn
 DOMAIN,track.uc.cn
 # > Umeng
 DOMAIN,alog.umeng.com
+DOMAIN,alogs.umeng.com
 DOMAIN,alog.umengcloud.com
+DOMAIN,alogs.umengcloud.com
 DOMAIN,ar.umeng.com
 DOMAIN,plbslog.umeng.com
 DOMAIN,ulogs.umeng.com
@@ -446,7 +455,7 @@ URL-REGEX,^https?:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
 # > China Guangfa Bank
 URL-REGEX,^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d\.(png|jpg)
 # > China Mobile
-# URL-REGEX,^https?:\/\/app\.10086\.cn\/biz-orange\/DN\/(findSale|homeSale)\/getsaleAdver
+URL-REGEX,^https?:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit
 # > China Unicom
 URL-REGEX,^https?:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm
 URL-REGEX,^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd
@@ -503,7 +512,7 @@ URL-REGEX,^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/
 URL-REGEX,^https?:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=advis
 # > 飞常准
 URL-REGEX,^https?:\/\/app\.variflight\.com\/ad\/
-URL-REGEX,^https?:\/\/app\.variflight\.com\/v\v\/advert\/
+URL-REGEX,^https?:\/\/app\.variflight\.com\/v\d\/advert\/
 
 # G
 # > Google
@@ -640,6 +649,8 @@ URL-REGEX,^https?:\/\/.+\/eapi\/(ad|log)\/
 URL-REGEX,^https?:\/\/sp\.kaola\.com\/api\/openad
 # > NetEase Yanxuan
 URL-REGEX,^https?:\/\/support\.you\.163\.com\/xhr\/boot\/getBootMedia\.json
+# > NetEase SnailReader
+URL-REGEX,^https?:\/\/easyreadfs\.nosdn\.127\.net\/ad-material\/
 # > 爱南宁
 URL-REGEX,^https?:\/\/nnapp\.cloudbae\.cn\/mc\/api\/advert/
 # > NationalGeographic
