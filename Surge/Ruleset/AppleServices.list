@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,mzstatic.com
+# > TestFlight
+DOMAIN,testflight.apple.com
 # > Siri
 DOMAIN,guzzoni.apple.com
 # > geod
