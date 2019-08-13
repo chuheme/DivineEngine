@@ -695,6 +695,7 @@ URL-REGEX,^https?:\/\/edit\.sinaapp\.com\/ua\?t=adv
 URL-REGEX,^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/sdkad\.php
 URL-REGEX,^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
 URL-REGEX,^https?:\/\/sdkapp\.uve\.weibo\.com/\interface\/sdk\/actionad\.php
+URL-REGEX,^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
 # > Sina 天气通
 URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=tqt_sdkad
 URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=tqtad
