@@ -3,4 +3,7 @@ DOMAIN-SUFFIX,googletraveladservices.com
 # > TencentVideo for macOS
 DOMAIN-SUFFIX,vd.l.qq.com
 # > Strava
-DOMAIN,analytics.strava.com 
+DOMAIN,analytics.strava.com
+# > Umeng
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
