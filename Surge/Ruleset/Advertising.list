@@ -374,6 +374,8 @@ DOMAIN,pvnapp.zol.com.cn
 
 # URL
 # 0~9
+# > 21epaper
+URL-REGEX,^https?:\/\/api\.21jingji\.com\/ad\/
 # > 58同城
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/advertising\/
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/appadv\/
@@ -431,7 +433,7 @@ URL-REGEX,^https?:\/\/www\.myhug\.cn\/ad\/
 # > 百词斩
 URL-REGEX,^https?:\/\/7n\.bczcdn\.com\/launchad\/
 # > 贝太厨房
-URL-REGEX,^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v1\/promote\/ios\/start\/page
+URL-REGEX,^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v\d\/promote\/ios\/start\/page
 # > 币世界
 URL-REGEX,^https?:\/\/iapi\.bishijie\.com\/actopen\/advertising\/
 # > 贝壳找房
@@ -474,6 +476,8 @@ URL-REGEX,^https?:\/\/pic\d\.chelaile\.net\.cn\/adv\/
 URL-REGEX,^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/
 # > CamScanner
 URL-REGEX,^https?:\/\/api\.intsig\.net\/user\/cs\/operating\/app\/get_startpic\/
+# > 财经
+URL-REGEX,^https?:\/\/api\.caijingmobile\.com\/(ad|advert)\/
 
 # D
 # > 豆瓣
@@ -505,7 +509,7 @@ URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-
 
 # F
 # > Foodie
-URL-REGEX,^https?:\/\/foodie-api\.yiruikecorp\.com\/v1\/(banner|notice)\/overview
+URL-REGEX,^https?:\/\/foodie-api\.yiruikecorp\.com\/v\d\/(banner|notice)\/overview
 # > FOTOABLE
 URL-REGEX,^https?:\/\/cdn\.api\.fotoable\.com\/Advertise\/
 # > 飞客茶馆
@@ -587,7 +591,7 @@ URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
 URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/MobileAdServer\/
 URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo
 # > 看理想
-URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v1\/home\/advertisement
+URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement
 
 # L
 # > Le
@@ -602,8 +606,8 @@ URL-REGEX,^https?:\/\/ios\.lantouzi\.com\/api\/startpage
 
 # M
 # > MI
-URL-REGEX,^https?:\/\/api\.m\.mi\.com\/v1\/app\/start
-URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/v1\/adv\/
+URL-REGEX,^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start
+URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/v\d\/adv\/
 URL-REGEX,^https?:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
 # > MI_Fit
 URL-REGEX,^https?:\/\/api-mifit.+\.huami\.com\/discovery\/mi\/discovery\/.+_ad\?
@@ -621,12 +625,11 @@ URL-REGEX,^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg
 URL-REGEX,^https?:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+\.jpg\?may_covertWebp
 URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+\/linglong\/.+\.jpg
 # > 美味不用等
-URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d/app/getstartad
+URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d{2}/app/getstartad
 # > 咪咕
-URL-REGEX,^https?:\/\/.+\/v1\/iflyad\/
+URL-REGEX,^https?:\/\/.+\/v\d\/iflyad\/
 URL-REGEX,^https?:\/\/.+\/cdn-adn\/
-URL-REGEX,^https?:\/\/ggic\.cmvideo\.cn\/ad\/
-URL-REGEX,^https?:\/\/ggic2\.cmvideo\.cn\/ad\/
+URL-REGEX,^https?:\/\/ggic\d?\.cmvideo\.cn\/ad\/
 URL-REGEX,^https?:\/\/.+/img\/ad\.union\.api\/
 # > 秒拍
 URL-REGEX,^https?:\/\/b-api\.ins\.miaopai\.com\/\d\/ad/
@@ -710,7 +713,7 @@ URL-REGEX,^https?:\/\/api\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap
 URL-REGEX,^https?:\/\/a\.sfansclub\.com\/business\/t\/ad\/
 URL-REGEX,^https?:\/\/a\.sfansclub\.com\/business\/t\/boot\/screen\/index
 # > 什么值得买
-URL-REGEX,^https?:\/\/api\.smzdm\.com\/v1\/util\/loading
+URL-REGEX,^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading
 # > 四季線上影視4gTV
 URL-REGEX,^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/(GetAD|ADLog)
 # > 肆客足球
@@ -750,9 +753,9 @@ URL-REGEX,^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/
 URL-REGEX,^https?:\/\/adpai\.thepaper\.cn\/.+&ad=
 # > 太平洋
 URL-REGEX,^https?:\/\/agent-count\.pconline\.com\.cn\/counter\/adAnalyse\/
-URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/v3\/ad2p
+URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/v\d\/ad2p
 URL-REGEX,^https?:\/\/mrobot\.pconline\.com\.cn\/s\/onlineinfo\/ad\/
-URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/v3\/ad2p
+URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/v\d\/ad2p
 URL-REGEX,^https?:\/\/mrobot\.pcauto\.com\.cn\/xsp\/s\/auto\/info\/preload\.xsp
 
 # V
@@ -769,14 +772,14 @@ URL-REGEX,^https?:\/\/overseas\.weico\.cc/portal\.php\?a=get_coopen_ads
 URL-REGEX,^https?:\/\/api-release\.wuta-cam\.com\/ad_tree
 URL-REGEX,^https?:\/\/res-release\.wuta-cam\.com\/json\/ads_component_cache\.json
 # > 蜗牛睡眠
-URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v1\/screen\/qn\/get\?
-URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v1\/adTask\/
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v\d\/screen\/qn\/get\?
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v\d\/adTask\/
 # > WiFi共享大师
 URL-REGEX,^https?:\/\/nochange\.ggsafe\.com\/ad\/
 # > 微店
 URL-REGEX,^https?:\/\/thor\.weidian\.com\/ares\/home\.splash\/
 # > 华尔街见闻
-URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv1\/advertising\/
+URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv\d\/advertising\/
 
 # X
 # > 下厨房
@@ -786,7 +789,7 @@ URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileser
 # > 小睡眠
 URL-REGEX,^https?:\/\/api\.psy-1\.com\/cosleep\/startup
 # > 迅游加速器
-URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v1\/ios\/configs\/(splash_ad|ad_urls)
+URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls)
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/
 # > 喜马拉雅
 URL-REGEX,^https?:\/\/.+\/api\/v\d\/adRealTime
