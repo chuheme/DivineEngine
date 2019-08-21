@@ -419,8 +419,9 @@ URL-REGEX,^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/\w+\/\w+\/(sync|newRnSync|newlog|mlog)
-# >> 百度地图 (153.3.236.81,180.101.212.22)
-URL-REGEX,^https?:\/\/.+\/client\/phpui2\/
+# >> 百度地图
+# URL-REGEX,^https?:\/\/.+\/client\/phpui2\/
+URL-REGEX,^https?:\/\/ss0\.bdstatic\.com/.+_\d{3}_\d{4}\.jpg
 # > ByteDance
 URL-REGEX,^https?:\/\/.+\.pstatp\.com\/img\/ad
 URL-REGEX,^https?:\/\/.+\.(musical|snssdk|tiktokv)\.(com|ly)\/(api|motor)\/ad\/
@@ -503,9 +504,9 @@ URL-REGEX,^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd
 URL-REGEX,^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch
 
 # E
-# > eLong(123.59.31.1,119.18.193.135)
-URL-REGEX,^https?:\/\/mobile-api2011\.elong\.com\/(adgateway|adv)\/
-URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/(adgateway|adv)\/
+# > eLong
+URL-REGEX,^https?:\/\/123\.59\.31\.1\/(adgateway|adv)\/
+URL-REGEX,^https?:\/\/119\.18\.193\.135\/(adgateway|adv)\/
 
 # F
 # > Foodie
@@ -596,9 +597,6 @@ URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement
 # L
 # > Le
 URL-REGEX,^https?:\/\/.+\/letv-gug\/
-# > luckin coffee(59.151.53.6,218.11.3.70)
-URL-REGEX,^https?:\/\/.+\/resource\/m\/sys\/app\/adpos
-URL-REGEX,^https?:\/\/.+\/resource\/m\/promo\/adsense
 # > 来疯直播
 URL-REGEX,^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads
 # > 懒投资
@@ -737,6 +735,7 @@ URL-REGEX,^https?:\/\/ssl\.kohsocialapp\.qq\.com:10001\/game\/buttons
 URL-REGEX,^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info
 # >> Tencent Maps
 URL-REGEX,^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/
+URL-REGEX,^https?:\/\/3gimg\.qq\.com\/tencentMapTouch\/splash\/
 # >> Tencent QQLive
 URL-REGEX,^https?:\/\/btrace.qq.com
 URL-REGEX,^https?:\/\/vv\.video\.qq\.com\/getvmind\?
@@ -831,3 +830,5 @@ URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated
 URL-REGEX,^https?:\/\/itunes\.apple\.com\/lookup\?id=575826903
 # > 作业帮
 URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
+# > 最右
+URL-REGEX,^https?:\/\/api\.izuiyou\.com\/ad\/

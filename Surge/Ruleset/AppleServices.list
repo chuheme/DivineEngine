@@ -1,25 +1,12 @@
+# > Apple
 DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-# > TestFlight
-DOMAIN,testflight.apple.com
-# > Siri
-DOMAIN,guzzoni.apple.com
-# > geod
-DOMAIN-SUFFIX,ls.apple.com
-# > iTunes Store and App Store
-DOMAIN-SUFFIX,itunes.apple.com
-# > Apple Music
-USER-AGENT,Music*
-DOMAIN,aod.itunes.apple.com
-DOMAIN,audio.itunes.apple.com
-DOMAIN,audio-ssl.itunes.apple.com
-DOMAIN,streamingaudio.itunes.apple.com
-# > Apple Podcasts
-USER-AGENT,Podcasts*
-# > Apple TV
-USER-AGENT,AppleTV*
-USER-AGENT,com.apple.tv*
-DOMAIN,ocvideo.apple.com
+DOMAIN,www-cdn.icloud.com.akadns.net
