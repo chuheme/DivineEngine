@@ -490,6 +490,7 @@ DOMAIN-SUFFIX,gigacircle.com
 DOMAIN-SUFFIX,hk-pub.com
 DOMAIN-SUFFIX,hosting.co.uk
 DOMAIN-SUFFIX,hwcdn.net
+DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,iphone4hongkong.com
 DOMAIN-SUFFIX,iphonetaiwan.org
 DOMAIN-SUFFIX,iptvbin.com
@@ -516,3 +517,5 @@ DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
+DOMAIN,api.steampowered.com
+DOMAIN,store.steampowered.com
