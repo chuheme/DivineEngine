@@ -88,10 +88,12 @@ DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,msecnd.net
 DOMAIN,officecdn-microsoft-com.akamaized.net
 # > NetEase
 USER-AGENT,NeteaseMusic*
@@ -182,12 +184,16 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 # > Other
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,b612.net
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,beitaichufang.com
 DOMAIN-SUFFIX,bjango.com
@@ -207,6 +213,7 @@ DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,eudic.net
+DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futunn.com
@@ -216,6 +223,7 @@ DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hostbuf.com
+DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
