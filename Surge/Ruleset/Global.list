@@ -10,17 +10,8 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
 # > Microsoft
-DOMAIN-SUFFIX,xboxlive.com
-# >> Microsoft OneDrive
 DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,blob.core.windows.net
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
-DOMAIN,oneclient.sfx.ms
+DOMAIN-SUFFIX,xboxlive.com
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
@@ -38,6 +29,12 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-KEYWORD,facebook
+IP-CIDR,3.123.36.126/32,no-resolve
+IP-CIDR,52.58.209.134/32,no-resolve
+IP-CIDR,54.93.124.31/32,no-resolve
+IP-CIDR,54.173.34.141/32,no-resolve
+IP-CIDR,54.235.23.242/32,no-resolve
+IP-CIDR,169.45.248.118/32,no-resolve
 # > Twitter
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
@@ -53,15 +50,12 @@ DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
-IP-CIDR,67.198.55.0/24,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/22,no-resolve
 IP-CIDR,91.108.12.0/22,no-resolve
 IP-CIDR,91.108.16.0/22,no-resolve
 IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,205.172.60.0/22,no-resolve
 # > Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
@@ -118,7 +112,6 @@ DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
-DOMAIN-SUFFIX,cccat.cc
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,ck101.com
@@ -157,6 +150,7 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,enanyang.my
+DOMAIN-SUFFIX,encyclopedia.com
 DOMAIN-SUFFIX,esoir.be
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,feedly.com
@@ -166,6 +160,7 @@ DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,ftchinese.com
+DOMAIN-SUFFIX,ftimg.net
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getsync.com
@@ -343,6 +338,7 @@ DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
+DOMAIN-SUFFIX,zoom.us
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
@@ -355,6 +351,7 @@ DOMAIN-SUFFIX,apartments.com
 DOMAIN-SUFFIX,bankmobilevibe.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,booktopia.com.au
+DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,centauro.com.br
 DOMAIN-SUFFIX,clearsurance.com
 DOMAIN-SUFFIX,costco.com
@@ -377,7 +374,6 @@ DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,jcpenney.com
 DOMAIN-SUFFIX,jiehua.tv
-DOMAIN-SUFFIX,kknews.cc
 DOMAIN-SUFFIX,mailfence.com
 DOMAIN-SUFFIX,nationwide.com
 DOMAIN-SUFFIX,nbc.com
@@ -385,7 +381,6 @@ DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nordstrom.com
 DOMAIN-SUFFIX,nordstromimage.com
 DOMAIN-SUFFIX,nordstromrack.com
-DOMAIN-SUFFIX,read01.com
 DOMAIN-SUFFIX,superpages.com
 DOMAIN-SUFFIX,target.com
 DOMAIN-SUFFIX,thinkgeek.com
@@ -473,6 +468,16 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+# > Microsoft
+# >> Microsoft OneDrive
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN,oneclient.sfx.ms
 # > Other
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz

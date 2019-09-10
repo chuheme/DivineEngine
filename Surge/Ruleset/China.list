@@ -200,12 +200,14 @@ DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,chinaso.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chushou.tv
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,docschina.org
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyu.com
@@ -227,8 +229,11 @@ DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kkmh.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,luojilab.com
 DOMAIN-SUFFIX,maoyun.tv
@@ -236,7 +241,9 @@ DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,myzaker.com
+DOMAIN-SUFFIX,nim-lang-cn.org
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,qdaily.com
@@ -249,6 +256,7 @@ DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,snwx.com
+DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,tianyancha.com
@@ -258,6 +266,7 @@ DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,zhangzishi.cc
