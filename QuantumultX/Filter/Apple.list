@@ -10,4 +10,4 @@ host-suffix, icloud-content.com, 苹果服务
 host-suffix, me.com, 苹果服务
 host-suffix, mzstatic.com, 苹果服务
 host, www-cdn.icloud.com.akadns.net, 苹果服务
-IP-CIDR,17.0.0.0/8, direct
+IP-CIDR,17.0.0.0/8, 苹果服务
