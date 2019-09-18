@@ -44,11 +44,13 @@ DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,go2cloud.org
 DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,haloapps.com
+DOMAIN-SUFFIX,idealads.net
 DOMAIN-SUFFIX,inmobi.cn
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,inmobi.net
 DOMAIN-SUFFIX,inmobicdn.cn
 DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,ironsrc.com
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,iskyworker.com
 DOMAIN-SUFFIX,kochava.com
@@ -79,6 +81,7 @@ DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,uri6.com
@@ -528,6 +531,8 @@ URL-REGEX,^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch
 # > eLong
 URL-REGEX,^https?:\/\/123\.59\.31\.1\/(adgateway|adv)\/
 URL-REGEX,^https?:\/\/119\.18\.193\.135\/(adgateway|adv)\/
+# > e代驾
+URL-REGEX,^https?:\/\/pic\.edaijia\.cn\/adsplash\/
 
 # F
 # > Foodie
@@ -593,6 +598,7 @@ URL-REGEX,^https?:\/\/ih2\.ireader\.com\/zycl\/api\/ad\/
 URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=(start|queryMaterialAdverts)
 URL-REGEX,^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
+URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture
 # > 界面新闻
 URL-REGEX,^https?:\/\/img\.jiemian\.com\/ads\/
 # > 驾校一点通

@@ -1,0 +1,13 @@
+# > Apple
+host-suffix, aaplimg.com, 苹果服务
+host-suffix, apple.co, 苹果服务
+host-suffix, apple.com, 苹果服务
+host-suffix, appstore.com, 苹果服务
+host-suffix, cdn-apple.com, 苹果服务
+host-suffix, crashlytics.com, 苹果服务
+host-suffix, icloud.com, 苹果服务
+host-suffix, icloud-content.com, 苹果服务
+host-suffix, me.com, 苹果服务
+host-suffix, mzstatic.com, 苹果服务
+host, www-cdn.icloud.com.akadns.net, 苹果服务
+IP-CIDR,17.0.0.0/8, direct

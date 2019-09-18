@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 # > DAZN
+USER-AGENT,DAZN*
 DOMAIN-SUFFIX,dazn.com
 # > encoreTVB
 USER-AGENT,encoreTVB*

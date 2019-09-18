@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,soku.com
@@ -71,6 +72,7 @@ DOMAIN-SUFFIX,71.am.com
 # > JD
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,360buyimg.com
 # > Kingsoft
 DOMAIN-SUFFIX,iciba.com
@@ -189,6 +191,7 @@ DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,aicoinstorge.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
@@ -200,7 +203,9 @@ DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,chinaso.com
+DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chushou.tv
 DOMAIN-SUFFIX,cmbchina.com
@@ -220,6 +225,7 @@ DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,geilicdn.com
+DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,hicloud.com
@@ -230,6 +236,7 @@ DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,licdn.com
@@ -250,6 +257,7 @@ DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qyerstatic.com
+DOMAIN-SUFFIX,raychase.net
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,sm.ms
@@ -265,6 +273,7 @@ DOMAIN-SUFFIX,uning.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weidian.com
+DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xmcdn.com

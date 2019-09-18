@@ -1,6 +1,7 @@
 # > Unbreak
 # >> General
 USER-AGENT,coffeecorp*
+DOMAIN,app.adjust.com
 # >> Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
 # >> Google Flights
