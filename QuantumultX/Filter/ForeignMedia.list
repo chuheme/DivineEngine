@@ -24,6 +24,9 @@ host-suffix, spoti.fi,ForeignMedia
 # > TIDAL
 user-agent, TIDAL*,ForeignMedia
 host-suffix, tidal.com,ForeignMedia
+# > YoutubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,ForeignMedia
+USER-AGENT,YouTubeMusic*,ForeignMedia
 # (Video)
 # > All4
 user-agent, All4*,ForeignMedia
