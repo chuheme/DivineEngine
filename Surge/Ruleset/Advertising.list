@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amobee.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,app-adforce.jp
-DOMAIN-SUFFIX,appadhoc.com
 DOMAIN-SUFFIX,appads.com
 DOMAIN-SUFFIX,appcpi.net
 DOMAIN-SUFFIX,appier.net
@@ -49,6 +48,7 @@ DOMAIN-SUFFIX,inmobi.cn
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,inmobi.net
 DOMAIN-SUFFIX,inmobicdn.cn
+DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,ironsrc.com
 DOMAIN-SUFFIX,irs01.com
@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,localytics.com
 DOMAIN-SUFFIX,mdfull.com
 DOMAIN-SUFFIX,measurementapi.com
 DOMAIN-SUFFIX,medialytics.com
+DOMAIN-SUFFIX,meetrics.com
+DOMAIN-SUFFIX,meetrics.net
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,moatads.com
@@ -78,6 +80,8 @@ DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
+DOMAIN-SUFFIX,supersonic.com
+DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
@@ -129,8 +133,8 @@ DOMAIN,mads.suning.com
 DOMAIN,mobileads.msn.com
 DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
-DOMAIN,optimus-ads.amap.com
 DOMAIN,sugar.zhihu.com
+DOMAIN,toots-a.akamaihd.net
 DOMAIN,track.tiara.daum.net
 DOMAIN,track.tiara.kakao.com
 DOMAIN,trackapp.guahao.cn
@@ -153,12 +157,14 @@ DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,adash.m.taobao.com
 DOMAIN,adash.man.aliyuncs.com
 DOMAIN,adashbc.ut.taobao.com
-DOMAIN,adashx.m.taobao.com
 DOMAIN,adash-c.ut.taobao.com
-DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
 DOMAIN,adashx4yt.m.taobao.com
+DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,nbsdk-baichuan.alicdn.com
+DOMAIN,optimus-ads.amap.com
+DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,tunion-api.m.taobao.com
 # > AutoHome
 DOMAIN,adproxy.autohome.com.cn
@@ -282,6 +288,7 @@ DOMAIN,v1.log.moji.com
 DOMAIN,ad.bn.netease.com
 DOMAIN,ad.yixin.im
 DOMAIN,admusicpic.music.126.net
+DOMAIN,gorgon.youdao.com
 DOMAIN,iadmat.nosdn.127.net
 DOMAIN,iadmusicmat.music.126.net
 DOMAIN,iadmusicmatvideo.music.126.net
@@ -292,6 +299,7 @@ DOMAIN,log-yex.youdao.com
 DOMAIN,n.3g.163.com
 DOMAIN,nex.163.com
 DOMAIN,yt-adp.nosdn.127.net
+DOMAIN,yt-adp.ws.126.net
 # (P)
 # > PPTV
 DOMAIN,ads.aplus.pptv.com
@@ -334,6 +342,7 @@ DOMAIN,mtrace.qq.com
 DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pgdt.gtimg.cn
+DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pingma.qq.com
 DOMAIN,pingtcss.qq.com
 DOMAIN,splashqqlive.gtimg.com
@@ -402,9 +411,10 @@ DOMAIN,pvnapp.zol.com.cn
 # 0~9
 # > 21epaper
 URL-REGEX,^https?:\/\/api\.21jingji\.com\/ad\/
+# > 360doc
+URL-REGEX,^https?:\/\/mobi\.360doc\.com\/v\d{2}\/Ajax\/festival\.ashx\?op=getfestivaltheme
 # > 58同城
-URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/advertising\/
-URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/appadv\/
+URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/(advertising|appadv)\/
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/log\/
 URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
@@ -508,10 +518,6 @@ URL-REGEX,^https?:\/\/api\.caijingmobile\.com\/(ad|advert)\/
 # > 豆瓣
 # (154.8.131.* 疑似自签证书不可验证)
 URL-REGEX,^https?:\/\/.+\/v2\/app_ads\/
-# URL-REGEX,^https?:\/\/.+\/api\/v2\/movie\/.+/ad\?
-# URL-REGEX,^https?:\/\/erebor\.douban\.com\/count\/\?ad=
-URL-REGEX,^https?:\/\/img\d\.doubanio\.com\/view\/dale-online\/dale_ad/
-# URL-REGEX,^https?:\/\/frodo\.douban\.com\/api\/v2\/movie\/ad
 # > 斗鱼
 URL-REGEX,^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo
 # > 当当
@@ -667,7 +673,8 @@ URL-REGEX,^https?:\/\/mapi\.mafengwo\.cn\/ad\/
 URL-REGEX,^https?:\/\/mapi\.mafengwo\.cn\/travelguide\/ad\/
 
 # N
-# > NetEase
+# > NetEase Mail
+URL-REGEX,^https?:\/\/appconf\.mail\.163\.com\/mmad\/
 # > NetEase Youdao
 URL-REGEX,^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+adpublish
 URL-REGEX,^https?:\/\/dsp-impr2\.youdao\.com\/adload.s\?

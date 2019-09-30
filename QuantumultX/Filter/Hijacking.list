@@ -20,7 +20,6 @@ host-suffix, aiclk.com, reject
 host-suffix, akuai.top, reject
 host-suffix, atplay.cn, reject
 host-suffix, baiwanchuangyi.com, reject
-host-suffix, bayimob.com, reject
 host-suffix, beerto.cn, reject
 host-suffix, beilamusi.com, reject
 host-suffix, benshiw.net, reject
@@ -47,6 +46,7 @@ host-suffix, goupaoerdai.com, reject
 host-suffix, gouwubang.com, reject
 host-suffix, gzxnlk.com, reject
 host-suffix, haoshengtoys.com, reject
+host-suffix, hyunke.com, reject
 host-suffix, ichaosheng.com, reject
 host-suffix, ishop789.com, reject
 host-suffix, jdkic.com, reject
@@ -167,6 +167,8 @@ host-suffix, cjmkt.com, reject
 host-suffix, codesoftchina.com, reject
 host-suffix, coreldrawchina.com, reject
 host-suffix, crossoverchina.com, reject
+host-suffix, dongmansoft.com, reject
+host-suffix, earmasterchina.cn, reject
 host-suffix, easyrecoverychina.com, reject
 host-suffix, ediuschina.com, reject
 host-suffix, flstudiochina.com, reject
@@ -180,6 +182,7 @@ host-suffix, jihehuaban.com.cn, reject
 host-suffix, keyshot.cc, reject
 host-suffix, kingdeecn.cn, reject
 host-suffix, logoshejishi.com, reject
+host-suffix, luping.net.cn, reject
 host-suffix, mairuan.cn, reject
 host-suffix, mairuan.com, reject
 host-suffix, mairuan.com.cn, reject
@@ -188,6 +191,7 @@ host-suffix, mairuanwang.com, reject
 host-suffix, makeding.com, reject
 host-suffix, mathtype.cn, reject
 host-suffix, mindmanager.cc, reject
+host-suffix, mindmanager.cn, reject
 host-suffix, mindmapper.cc, reject
 host-suffix, mycleanmymac.com, reject
 host-suffix, nicelabel.cc, reject
@@ -196,6 +200,7 @@ host-suffix, ntfsformac.cn, reject
 host-suffix, overturechina.com, reject
 host-suffix, passwordrecovery.cn, reject
 host-suffix, pdfexpert.cc, reject
+host-suffix, photozoomchina.com, reject
 host-suffix, shankejingling.com, reject
 host-suffix, ultraiso.net, reject
 host-suffix, vegaschina.cn, reject

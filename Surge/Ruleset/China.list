@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,hdslb.com
 # > Blizzard
 DOMAIN-SUFFIX,blizzard.com
@@ -48,6 +49,10 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,toutiao.com
+# > CCTV
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctvpic.com
+DOMAIN-SUFFIX,livechina.com
 # > DiDi
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didiglobal.com
@@ -93,6 +98,7 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
@@ -127,14 +133,19 @@ DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamstat.us
 # > Tencent
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud.net
 # > YYeTs
 USER-AGENT,YYeTs*
 DOMAIN-SUFFIX,jstucdn.com
@@ -150,6 +161,7 @@ DOMAIN-SUFFIX,ccgslb.net
 DOMAIN-SUFFIX,chinanetcenter.com
 DOMAIN-SUFFIX,meixincdn.com
 DOMAIN-SUFFIX,ourdvs.com
+DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,wangsu.com
 # > IP Query
 DOMAIN-SUFFIX,ipip.net
@@ -205,6 +217,7 @@ DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,chinaso.com
+DOMAIN-SUFFIX,chua.pro
 DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chushou.tv
@@ -221,6 +234,7 @@ DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,feng.com
+DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futunn.com
@@ -236,14 +250,18 @@ DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,jidian.im
 DOMAIN-SUFFIX,kaiyanapp.com
+DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,maoyun.tv
+DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mubu.com
@@ -260,16 +278,21 @@ DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,raychase.net
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,ruguoapp.com
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,scomper.me
+DOMAIN-SUFFIX,seafile.com
 DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,snwx.com
 DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,udacity.com
 DOMAIN-SUFFIX,uning.com
+DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weidian.com

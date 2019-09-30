@@ -22,7 +22,6 @@ host-suffix, amazon-adsystem.com, reject
 host-suffix, amobee.com, reject
 host-suffix, analysys.cn, reject
 host-suffix, app-adforce.jp, reject
-host-suffix, appadhoc.com, reject
 host-suffix, appads.com, reject
 host-suffix, appcpi.net, reject
 host-suffix, appier.net, reject
@@ -49,6 +48,7 @@ host-suffix, inmobi.cn, reject
 host-suffix, inmobi.com, reject
 host-suffix, inmobi.net, reject
 host-suffix, inmobicdn.cn, reject
+host-suffix, inmobicdn.net, reject
 host-suffix, inner-active.mobi, reject
 host-suffix, ironsrc.com, reject
 host-suffix, irs01.com, reject
@@ -63,6 +63,8 @@ host-suffix, localytics.com, reject
 host-suffix, mdfull.com, reject
 host-suffix, measurementapi.com, reject
 host-suffix, medialytics.com, reject
+host-suffix, meetrics.com, reject
+host-suffix, meetrics.net, reject
 host-suffix, miaozhen.com, reject
 host-suffix, mmstat.com, reject
 host-suffix, moatads.com, reject
@@ -78,6 +80,8 @@ host-suffix, shuzilm.cn, reject
 host-suffix, smaato.net, reject
 host-suffix, smartadserver.com, reject
 host-suffix, smartnews-ads.com, reject
+host-suffix, supersonic.com, reject
+host-suffix, supersonicads.com, reject
 host-suffix, tagtic.cn, reject
 host-suffix, tanv.com, reject
 host-suffix, tanx.com, reject
@@ -129,8 +133,8 @@ host, mads.suning.com, reject
 host, mobileads.msn.com, reject
 host, mopnativeadv.037201.com, reject
 host, nativeadv.dftoutiao.com, reject
-host, optimus-ads.amap.com, reject
 host, sugar.zhihu.com, reject
+host, toots-a.akamaihd.net, reject
 host, track.tiara.daum.net, reject
 host, track.tiara.kakao.com, reject
 host, trackapp.guahao.cn, reject
@@ -153,12 +157,14 @@ host, acs4baichuan.m.taobao.com, reject
 host, adash.m.taobao.com, reject
 host, adash.man.aliyuncs.com, reject
 host, adashbc.ut.taobao.com, reject
-host, adashbc.adashx.m.taobao.com, reject
 host, adash-c.ut.taobao.com, reject
-host, adashxgc.ut.taobao.com, reject
+host, adashx.m.taobao.com, reject
 host, adashx4yt.m.taobao.com, reject
+host, adashxgc.ut.taobao.com, reject
 host, h-adashx.ut.taobao.com, reject
 host, nbsdk-baichuan.alicdn.com, reject
+host, optimus-ads.amap.com, reject
+host, optimus-ads.amap.com.w.alikunlun.com, reject
 host, tunion-api.m.taobao.com, reject
 # > AutoHome
 host, adproxy.autohome.com.cn, reject
@@ -282,6 +288,7 @@ host, v1.log.moji.com, reject
 host, ad.bn.netease.com, reject
 host, ad.yixin.im, reject
 host, admusicpic.music.126.net, reject
+host, gorgon.youdao.com, reject
 host, iadmat.nosdn.127.net, reject
 host, iadmusicmat.music.126.net, reject
 host, iadmusicmatvideo.music.126.net, reject
@@ -292,6 +299,7 @@ host, log-yex.youdao.com, reject
 host, n.3g.163.com, reject
 host, nex.163.com, reject
 host, yt-adp.nosdn.127.net, reject
+host, yt-adp.ws.126.net, reject
 # (P)
 # > PPTV
 host, ads.aplus.pptv.com, reject
@@ -334,6 +342,7 @@ host, mtrace.qq.com, reject
 host, oth.eve.mdt.qq.com, reject
 host, pgdt.gtimg.com, reject
 host, pgdt.gtimg.cn, reject
+host, pgdt.ugdtimg.com, reject
 host, pingma.qq.com, reject
 host, pingtcss.qq.com, reject
 host, splashqqlive.gtimg.com, reject

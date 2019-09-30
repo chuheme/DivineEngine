@@ -1,13 +1,13 @@
 # > Apple
-host-suffix, aaplimg.com, direct
-host-suffix, apple.co, direct
-host-suffix, apple.com, direct
-host-suffix, appstore.com, direct
-host-suffix, cdn-apple.com, direct
-host-suffix, crashlytics.com, direct
-host-suffix, icloud.com, direct
-host-suffix, icloud-content.com, direct
-host-suffix, me.com, direct
-host-suffix, mzstatic.com, direct
-host, www-cdn.icloud.com.akadns.net, direct
-IP-CIDR,17.0.0.0/8, direct
+host-suffix, aaplimg.com,Apple
+host-suffix, apple.co,Apple
+host-suffix, apple.com,Apple
+host-suffix, appstore.com,Apple
+host-suffix, cdn-apple.com,Apple
+host-suffix, crashlytics.com,Apple
+host-suffix, icloud.com,Apple
+host-suffix, icloud-content.com,Apple
+host-suffix, me.com,Apple
+host-suffix, mzstatic.com,Apple
+host, www-cdn.icloud.com.akadns.net,Apple
+IP-CIDR,17.0.0.0/8,Apple
