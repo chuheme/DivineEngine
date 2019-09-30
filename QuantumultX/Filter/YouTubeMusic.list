@@ -1,3 +1,3 @@
 # > YouTubeMusic
-user-agent, com.google.ios.youtubemusic*,YoutubeMusic
-user-agent, YouTubeMusic*,YoutubeMusic
+user-agent, com.google.ios.youtubemusic*,YouTubeMusic
+user-agent, YouTubeMusic*,YouTubeMusic
