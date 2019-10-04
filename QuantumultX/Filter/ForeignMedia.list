@@ -25,8 +25,8 @@ host-suffix, spoti.fi, proxy
 user-agent, TIDAL*, proxy
 host-suffix, tidal.com, proxy
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*, proxy
-USER-AGENT,YouTubeMusic*, proxy
+user-agent, com.google.ios.youtubemusic*, proxy
+user-agent, YouTubeMusic*, proxy
 # (Video)
 # > All4
 user-agent, All4*, proxy
