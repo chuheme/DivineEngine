@@ -1,0 +1,6 @@
+# > YouTube
+user-agent, com.google.ios.youtube*, proxy
+user-agent, YouTube*, proxy
+host-suffix, googlevideo.com, proxy
+host-suffix, youtube.com, proxy
+host, youtubei.googleapis.com, proxy

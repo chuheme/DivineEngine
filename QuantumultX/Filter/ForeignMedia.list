@@ -1,169 +1,169 @@
 # (ForeignMedia)
 # (Music)
 # > Deezer
-user-agent, Deezer*,ForeignMedia
-host-suffix, deezer.com,ForeignMedia
-host-suffix, dzcdn.net,ForeignMedia
+user-agent, Deezer*, proxy
+host-suffix, deezer.com, proxy
+host-suffix, dzcdn.net, proxy
 # > KKBOX
-host-suffix, kkbox.com,ForeignMedia
-host-suffix, kkbox.com.tw,ForeignMedia
-host-suffix, kfs.io,ForeignMedia
+host-suffix, kkbox.com, proxy
+host-suffix, kkbox.com.tw, proxy
+host-suffix, kfs.io, proxy
 # > JOOX
-user-agent, WeMusic*,ForeignMedia
-user-agent, JOOX*,ForeignMedia
-host-suffix, joox.com,ForeignMedia
+user-agent, WeMusic*, proxy
+user-agent, JOOX*, proxy
+host-suffix, joox.com, proxy
 # > Pandora
-user-agent, Pandora*,ForeignMedia
-host-suffix, pandora.com,ForeignMedia
+user-agent, Pandora*, proxy
+host-suffix, pandora.com, proxy
 # > Spotify
-user-agent, Spotify*,ForeignMedia
-host-suffix, pscdn.co,ForeignMedia
-host-suffix, scdn.co,ForeignMedia
-host-suffix, spotify.com,ForeignMedia
-host-suffix, spoti.fi,ForeignMedia
+user-agent, Spotify*, proxy
+host-suffix, pscdn.co, proxy
+host-suffix, scdn.co, proxy
+host-suffix, spotify.com, proxy
+host-suffix, spoti.fi, proxy
 # > TIDAL
-user-agent, TIDAL*,ForeignMedia
-host-suffix, tidal.com,ForeignMedia
-# > YoutubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,ForeignMedia
-USER-AGENT,YouTubeMusic*,ForeignMedia
+user-agent, TIDAL*, proxy
+host-suffix, tidal.com, proxy
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*, proxy
+USER-AGENT,YouTubeMusic*, proxy
 # (Video)
 # > All4
-user-agent, All4*,ForeignMedia
-host-suffix, c4assets.com,ForeignMedia
-host-suffix, channel4.com,ForeignMedia
+user-agent, All4*, proxy
+host-suffix, c4assets.com, proxy
+host-suffix, channel4.com, proxy
 # > AbemaTV
-user-agent, AbemaTV*,ForeignMedia
-host-suffix, abema.io,ForeignMedia
-host-suffix, ameba.jp,ForeignMedia
-host-suffix, hayabusa.io,ForeignMedia
-host, abematv.akamaized.net,ForeignMedia
-host, ds-linear-abematv.akamaized.net,ForeignMedia
-host, ds-vod-abematv.akamaized.net,ForeignMedia
-host, linear-abematv.akamaized.net,ForeignMedia
-# > Amazon_Prime_Video
-user-agent, InstantVideo.US*,ForeignMedia
-user-agent, Prime%20Video*,ForeignMedia
-host-suffix, primevideo.com,ForeignMedia
+user-agent, AbemaTV*, proxy
+host-suffix, abema.io, proxy
+host-suffix, ameba.jp, proxy
+host-suffix, hayabusa.io, proxy
+host, abematv.akamaized.net, proxy
+host, ds-linear-abematv.akamaized.net, proxy
+host, ds-vod-abematv.akamaized.net, proxy
+host, linear-abematv.akamaized.net, proxy
+# > Amazon Prime Video
+user-agent, InstantVideo.US*, proxy
+user-agent, Prime%20Video*, proxy
+host-suffix, primevideo.com, proxy
 # > Bahamut
-user-agent, Anime*,ForeignMedia
-host-suffix, bahamut.com.tw,ForeignMedia
-host-suffix, gamer.com.tw,ForeignMedia
-host, gamer-cds.cdn.hinet.net,ForeignMedia
-host, gamer2-cds.cdn.hinet.net,ForeignMedia
-# > BBC_iPlayer
-user-agent, BBCiPlayer*,ForeignMedia
-host-suffix, bbc.co.uk,ForeignMedia
-host-suffix, bbci.co.uk,ForeignMedia
-host-keyword, bbcfmt,ForeignMedia
-host-keyword, uk-live,ForeignMedia
+user-agent, Anime*, proxy
+host-suffix, bahamut.com.tw, proxy
+host-suffix, gamer.com.tw, proxy
+host, gamer-cds.cdn.hinet.net, proxy
+host, gamer2-cds.cdn.hinet.net, proxy
+# > BBC iPlayer
+user-agent, BBCiPlayer*, proxy
+host-suffix, bbc.co.uk, proxy
+host-suffix, bbci.co.uk, proxy
+host-keyword, bbcfmt, proxy
+host-keyword, uk-live, proxy
 # > DAZN
-user-agent, DAZN*,ForeignMedia
-host-keyword, dazn.com,ForeignMedia
+user-agent, DAZN*, proxy
+host-keyword, dazn.com, proxy
 # > encoreTVB
-user-agent, encoreTVB*,ForeignMedia
-host-suffix, encoretvb.com,ForeignMedia
-host, edge.api.brightcove.com,ForeignMedia
-host, bcbolt446c5271-a.akamaihd.net,ForeignMedia
+user-agent, encoreTVB*, proxy
+host-suffix, encoretvb.com, proxy
+host, edge.api.brightcove.com, proxy
+host, bcbolt446c5271-a.akamaihd.net, proxy
 # > Fox+ & Fox Now
-user-agent, FOX%20NOW*,ForeignMedia
-user-agent, FOXPlus*,ForeignMedia
-host-suffix, dashasiafox.akamaized.net,ForeignMedia
-host-suffix, fox.com,ForeignMedia
-host-suffix, foxdcg.com,ForeignMedia
-host-suffix, foxplus.com,ForeignMedia
-host-suffix, staticasiafox.akamaized.net,ForeignMedia
-host-suffix, theplatform.com,ForeignMedia
-host-suffix, uplynk.com,ForeignMedia
+user-agent, FOX%20NOW*, proxy
+user-agent, FOXPlus*, proxy
+host-suffix, dashasiafox.akamaized.net, proxy
+host-suffix, fox.com, proxy
+host-suffix, foxdcg.com, proxy
+host-suffix, foxplus.com, proxy
+host-suffix, staticasiafox.akamaized.net, proxy
+host-suffix, theplatform.com, proxy
+host-suffix, uplynk.com, proxy
 # > HBO Now & HBO GO
-user-agent, HBO%20NOW*,ForeignMedia
-user-agent, HBO%20GO*,ForeignMedia
-user-agent, HBOAsia*,ForeignMedia
-host-suffix, hbo.com,ForeignMedia
-host-suffix, hbogo.com,ForeignMedia
-host-suffix, hboasia.com,ForeignMedia
-host-suffix, hbogo.com,ForeignMedia
-host-suffix, hbogoasia.hk,ForeignMedia
-host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,ForeignMedia
-host, bcbolthboa-a.akamaihd.net,ForeignMedia
-host, cf-images.ap-southeast-1.prod.boltdns.net,ForeignMedia
-host, manifest.prod.boltdns.net,ForeignMedia
-host, s3-ap-southeast-1.amazonaws.com,ForeignMedia
+user-agent, HBO%20NOW*, proxy
+user-agent, HBO%20GO*, proxy
+user-agent, HBOAsia*, proxy
+host-suffix, hbo.com, proxy
+host-suffix, hbogo.com, proxy
+host-suffix, hboasia.com, proxy
+host-suffix, hbogo.com, proxy
+host-suffix, hbogoasia.hk, proxy
+host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, proxy
+host, bcbolthboa-a.akamaihd.net, proxy
+host, cf-images.ap-southeast-1.prod.boltdns.net, proxy
+host, manifest.prod.boltdns.net, proxy
+host, s3-ap-southeast-1.amazonaws.com, proxy
 # > Hulu
-host-suffix, hulu.com,ForeignMedia
-host-suffix, huluim.com,ForeignMedia
-host-suffix, hulustream.com,ForeignMedia
+host-suffix, hulu.com, proxy
+host-suffix, huluim.com, proxy
+host-suffix, hulustream.com, proxy
 # > ITV
-user-agent, ITV_Player*,ForeignMedia
-host-suffix, itv.com,ForeignMedia
-host-suffix, itvstatic.com,ForeignMedia
-host, itvpnpmobile-a.akamaihd.net,ForeignMedia
+user-agent, ITV_Player*, proxy
+host-suffix, itv.com, proxy
+host-suffix, itvstatic.com, proxy
+host, itvpnpmobile-a.akamaihd.net, proxy
 # > KKTV
-user-agent, KKTV*,ForeignMedia
-user-agent, com.kktv.ios.kktv*,ForeignMedia
-host-suffix, kktv.com.tw,ForeignMedia
-host-suffix, kktv.me,ForeignMedia
-host, kktv-theater.kk.stream,ForeignMedia
-# > Line_TV
-user-agent, LINE%20TV*,ForeignMedia
-host-suffix, linetv.tw,ForeignMedia
-host, d3c7rimkq79yfu.cloudfront.net,ForeignMedia
+user-agent, KKTV*, proxy
+user-agent, com.kktv.ios.kktv*, proxy
+host-suffix, kktv.com.tw, proxy
+host-suffix, kktv.me, proxy
+host, kktv-theater.kk.stream, proxy
+# > Line TV
+user-agent, LINE%20TV*, proxy
+host-suffix, linetv.tw, proxy
+host, d3c7rimkq79yfu.cloudfront.net, proxy
 # > Hulu(フールー)
-host-suffix, happyon.jp,ForeignMedia
-host-suffix, hulu.jp,ForeignMedia
+host-suffix, happyon.jp, proxy
+host-suffix, hulu.jp, proxy
 # > LiTV
-host-suffix, litv.tv,ForeignMedia
-host, litvfreemobile-hichannel.cdn.hinet.net,ForeignMedia
+host-suffix, litv.tv, proxy
+host, litvfreemobile-hichannel.cdn.hinet.net, proxy
 # > My5
-user-agent, My5*,ForeignMedia
-host-suffix, channel5.com,ForeignMedia
-host-suffix, my5.tv,ForeignMedia
-host, d349g9zuie06uo.cloudfront.net,ForeignMedia
+user-agent, My5*, proxy
+host-suffix, channel5.com, proxy
+host-suffix, my5.tv, proxy
+host, d349g9zuie06uo.cloudfront.net, proxy
 # > myTV_SUPER
-user-agent, mytv*,ForeignMedia
-host-suffix, mytvsuper.com,ForeignMedia
-host-suffix, tvb.com,ForeignMedia
+user-agent, mytv*, proxy
+host-suffix, mytvsuper.com, proxy
+host-suffix, tvb.com, proxy
 # > Netflix
-user-agent, Argo*,ForeignMedia
-host-suffix, netflix.com,ForeignMedia
-host-suffix, netflix.net,ForeignMedia
-host-suffix, nflxext.com,ForeignMedia
-host-suffix, nflximg.com,ForeignMedia
-host-suffix, nflximg.net,ForeignMedia
-host-suffix, nflxso.net,ForeignMedia
-host-suffix, nflxvideo.net,ForeignMedia
-ip-cidr, 23.246.0.0/18,ForeignMedia
-ip-cidr, 37.77.184.0/21,ForeignMedia
-ip-cidr, 45.57.0.0/17,ForeignMedia
-ip-cidr, 64.120.128.0/17,ForeignMedia
-ip-cidr, 66.197.128.0/17,ForeignMedia
-ip-cidr, 108.175.32.0/20,ForeignMedia
-ip-cidr, 192.173.64.0/18,ForeignMedia
-ip-cidr, 198.38.96.0/19,ForeignMedia
-ip-cidr, 198.45.48.0/20,ForeignMedia
+user-agent, Argo*, proxy
+host-suffix, netflix.com, proxy
+host-suffix, netflix.net, proxy
+host-suffix, nflxext.com, proxy
+host-suffix, nflximg.com, proxy
+host-suffix, nflximg.net, proxy
+host-suffix, nflxso.net, proxy
+host-suffix, nflxvideo.net, proxy
+ip-cidr, 23.246.0.0/18, proxy
+ip-cidr, 37.77.184.0/21, proxy
+ip-cidr, 45.57.0.0/17, proxy
+ip-cidr, 64.120.128.0/17, proxy
+ip-cidr, 66.197.128.0/17, proxy
+ip-cidr, 108.175.32.0/20, proxy
+ip-cidr, 192.173.64.0/18, proxy
+ip-cidr, 198.38.96.0/19, proxy
+ip-cidr, 198.45.48.0/20, proxy
 # > PBS
-user-agent, PBS*,ForeignMedia
-host-suffix, pbs.org,ForeignMedia
+user-agent, PBS*, proxy
+host-suffix, pbs.org, proxy
 # > Pornhub
-host-suffix, phncdn.com,ForeignMedia
-host-suffix, pornhub.com,ForeignMedia
-host-suffix, pornhubpremium.com,ForeignMedia
+host-suffix, phncdn.com, proxy
+host-suffix, pornhub.com, proxy
+host-suffix, pornhubpremium.com, proxy
 # > Twitch
-host-suffix, twitch.tv,ForeignMedia
-host-suffix, twitchcdn.net,ForeignMedia
-host-suffix, ttvnw.net,ForeignMedia
+host-suffix, twitch.tv, proxy
+host-suffix, twitchcdn.net, proxy
+host-suffix, ttvnw.net, proxy
 # > ViuTV
-user-agent, Viu*,ForeignMedia
-user-agent, ViuTV*,ForeignMedia
-host-suffix, viu.com,ForeignMedia
-host-suffix, viu.tv,ForeignMedia
-host, api.viu.now.com,ForeignMedia
-host, d1k2us671qcoau.cloudfront.net,ForeignMedia
-host, d2anahhhmp1ffz.cloudfront.net,ForeignMedia
-host, dfp6rglgjqszk.cloudfront.net,ForeignMedia
-# > Youtube
-user-agent, com.google.ios.youtube*,ForeignMedia
-user-agent, YouTube*,ForeignMedia
-host-suffix, googlevideo.com,ForeignMedia
-host-suffix, youtube.com,ForeignMedia
-host, youtubei.googleapis.com,ForeignMedia
+user-agent, Viu*, proxy
+user-agent, ViuTV*, proxy
+host-suffix, viu.com, proxy
+host-suffix, viu.tv, proxy
+host, api.viu.now.com, proxy
+host, d1k2us671qcoau.cloudfront.net, proxy
+host, d2anahhhmp1ffz.cloudfront.net, proxy
+host, dfp6rglgjqszk.cloudfront.net, proxy
+# > YouTube
+user-agent, com.google.ios.youtube*, proxy
+user-agent, YouTube*, proxy
+host-suffix, googlevideo.com, proxy
+host-suffix, youtube.com, proxy
+host, youtubei.googleapis.com, proxy

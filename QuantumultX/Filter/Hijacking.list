@@ -1,4 +1,4 @@
-# Hijacking 劫持（运营商及臭名昭著的网站和应用）
+# Internet Service Provider Hijacking 运营商劫持
 host-suffix, 17gouwuba.com, reject
 host-suffix, 186078.com, reject
 host-suffix, 189zj.cn, reject
@@ -151,10 +151,10 @@ ip-cidr, 222.73.156.235/32, reject
 # Infamous 声名狼藉
 host-suffix, kuaizip.com, reject
 host-suffix, mackeeper.com, reject
-# > Adobe
+# > Adobe 奥多比
 host-suffix, flash.cn, reject
 host, geo2.adobe.com, reject
-# > CJ Marketing
+# > CJ Marketing 思杰马克丁软件
 host-suffix, 4009997658.com, reject
 host-suffix, abbyychina.com, reject
 host-suffix, bartender.cc, reject
