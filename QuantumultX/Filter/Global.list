@@ -88,6 +88,7 @@ host-suffix, arte.tv, proxy
 host-suffix, artstation.com, proxy
 host-suffix, arukas.io, proxy
 host-suffix, ask.com, proxy
+host-suffix, avg.com, proxy
 host-suffix, avgle.com, proxy
 host-suffix, badoo.com, proxy
 host-suffix, bandwagonhost.com, proxy
@@ -203,6 +204,7 @@ host-suffix, jiji.com, proxy
 host-suffix, jinx.com, proxy
 host-suffix, jkforum.net, proxy
 host-suffix, joinmastodon.org, proxy
+host-suffix, justmysocks.net, proxy
 host-suffix, justpaste.it, proxy
 host-suffix, kakao.com, proxy
 host-suffix, kakaocorp.com, proxy
@@ -230,6 +232,7 @@ host-suffix, myspace.com, proxy
 host-suffix, myspacecdn.com, proxy
 host-suffix, nanyang.com, proxy
 host-suffix, naver.com, proxy
+host-suffix, neowin.net, proxy
 host-suffix, newstapa.org, proxy
 host-suffix, nexitally.com, proxy
 host-suffix, nhk.or.jp, proxy
@@ -276,6 +279,7 @@ host-suffix, quoracdn.net, proxy
 host-suffix, rakuten.co.jp, proxy
 host-suffix, readingtimes.com.tw, proxy
 host-suffix, readmoo.com, proxy
+host-suffix, redbubble.com, proxy
 host-suffix, reddit.com, proxy
 host-suffix, redditmedia.com, proxy
 host-suffix, resilio.com, proxy
@@ -314,6 +318,7 @@ host-suffix, udn.com, proxy
 host-suffix, unseen.is, proxy
 host-suffix, upmedia.mg, proxy
 host-suffix, uptodown.com, proxy
+host-suffix, urbandictionary.com, proxy
 host-suffix, ustream.tv, proxy
 host-suffix, uwants.com, proxy
 host-suffix, v2ray.com, proxy
@@ -330,6 +335,8 @@ host-suffix, wattpad.com, proxy
 host-suffix, whoer.net, proxy
 host-suffix, wikimapia.org, proxy
 host-suffix, wikipedia.org, proxy
+host-suffix, wikiquote.org, proxy
+host-suffix, wikiwand.com, proxy
 host-suffix, winudf.com, proxy
 host-suffix, wire.com, proxy
 host-suffix, wordpress.com, proxy
@@ -349,7 +356,6 @@ host-suffix, yesasia.com, proxy
 host-suffix, yes-news.com, proxy
 host-suffix, yomiuri.co.jp, proxy
 host-suffix, you-get.org, proxy
-host-suffix, yoyutrans.com, proxy
 host-suffix, zaobao.com, proxy
 host-suffix, zb.com, proxy
 host-suffix, zello.com, proxy
@@ -497,7 +503,6 @@ host-suffix, 0rz.tw, proxy
 host-suffix, 4bluestones.biz, proxy
 host-suffix, 9bis.net, proxy
 host-suffix, allconnected.co, proxy
-host-suffix, amazonaws.com, proxy
 host-suffix, aol.com, proxy
 host-suffix, bcc.com.tw, proxy
 host-suffix, bit.ly, proxy
@@ -536,6 +541,7 @@ host-suffix, newsblur.com, proxy
 host-suffix, now.im, proxy
 host-suffix, nowe.com, proxy
 host-suffix, redditlist.com, proxy
+host-suffix, s3.amazonaws.com, proxy
 host-suffix, signal.org, proxy
 host-suffix, smartmailcloud.com, proxy
 host-suffix, sparknotes.com, proxy

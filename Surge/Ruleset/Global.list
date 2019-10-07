@@ -88,6 +88,7 @@ DOMAIN-SUFFIX,arte.tv
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,arukas.io
 DOMAIN-SUFFIX,ask.com
+DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,bandwagonhost.com
@@ -203,6 +204,7 @@ DOMAIN-SUFFIX,jiji.com
 DOMAIN-SUFFIX,jinx.com
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,joinmastodon.org
+DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-SUFFIX,justpaste.it
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocorp.com
@@ -230,6 +232,7 @@ DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,nanyang.com
 DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,newstapa.org
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nhk.or.jp
@@ -276,6 +279,7 @@ DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,readingtimes.com.tw
 DOMAIN-SUFFIX,readmoo.com
+DOMAIN-SUFFIX,redbubble.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,resilio.com
@@ -314,6 +318,7 @@ DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,unseen.is
 DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,uwants.com
 DOMAIN-SUFFIX,v2ray.com
@@ -330,6 +335,8 @@ DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,winudf.com
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,wordpress.com
@@ -349,7 +356,6 @@ DOMAIN-SUFFIX,yesasia.com
 DOMAIN-SUFFIX,yes-news.com
 DOMAIN-SUFFIX,yomiuri.co.jp
 DOMAIN-SUFFIX,you-get.org
-DOMAIN-SUFFIX,yoyutrans.com
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
@@ -499,7 +505,6 @@ DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
 DOMAIN-SUFFIX,9bis.net
 DOMAIN-SUFFIX,allconnected.co
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,bcc.com.tw
 DOMAIN-SUFFIX,bit.ly
@@ -538,6 +543,7 @@ DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,now.im
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,redditlist.com
+DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,sparknotes.com

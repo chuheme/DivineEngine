@@ -1,15 +1,15 @@
-# > Unbreak
-# >> General
+# Unbreak
+# > General
 user-agent, coffeecorp*, direct
 host, app.adjust.com, direct
-# >> Firebase Cloud Messaging
-host, mtalk.google.com, direct
-# >> Google Flights
+# > Google
 host-suffix, googletraveladservices.com, direct
-# >> TencentVideo for macOS
+host, dl.google.com, direct
+host, mtalk.google.com, direct
+# > TencentVideo for macOS
 host-suffix, vd.l.qq.com, direct
-# >> Strava
+# > Strava
 host, analytics.strava.com, direct
-# >> Umeng
+# > Umeng
 host, msg.umeng.com, direct
 host, msg.umengcloud.com, direct
