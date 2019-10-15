@@ -1,0 +1,7 @@
+# > UnblockNeteaseMusic
+host-suffix, unblock.406871401.xyz, direct
+host-suffix, music.126.net, direct
+host-suffix, music.163.com, direct
+ip-cidr, 59.111.128.0/17, direct
+ip-cidr, 115.236.112.0/20, direct
+ip-cidr, 223.252.192.0/19, direct
