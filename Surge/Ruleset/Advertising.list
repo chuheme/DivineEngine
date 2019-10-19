@@ -635,6 +635,8 @@ URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
 # > Kuwo
 URL-REGEX,^https?:\/\/122\.14\.246\.33\/MobileAdServer\/
 URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo
+# > 看理想
+URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement
 
 # L
 # > Le
