@@ -116,6 +116,7 @@ DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,channelnewsasia.com
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,clyp.it
@@ -155,7 +156,9 @@ DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,encyclopedia.com
 DOMAIN-SUFFIX,esoir.be
+DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,euronews.com
+DOMAIN-SUFFIX,evozi.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,firech.at
 DOMAIN-SUFFIX,flickr.com
@@ -257,6 +260,7 @@ DOMAIN-SUFFIX,orientaldaily.com.my
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,paltalk.com
 DOMAIN-SUFFIX,pao-pao.net
+DOMAIN-SUFFIX,parsevideo.com
 DOMAIN-SUFFIX,pbxes.com
 DOMAIN-SUFFIX,pcdvd.com.tw
 DOMAIN-SUFFIX,pchome.com.tw
@@ -267,9 +271,11 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,plurk.com
 DOMAIN-SUFFIX,po18.tw
+DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,potatso.com
 DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,proxifier.com
+DOMAIN-SUFFIX,pt.im
 DOMAIN-SUFFIX,pts.org.tw
 DOMAIN-SUFFIX,pubu.com.tw
 DOMAIN-SUFFIX,pubu.tw
@@ -284,6 +290,7 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rixcloud.com
 DOMAIN-SUFFIX,roadshow.hk
@@ -308,6 +315,7 @@ DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tumblr.com
@@ -407,6 +415,7 @@ DOMAIN-SUFFIX,superpages.com
 DOMAIN-SUFFIX,target.com
 DOMAIN-SUFFIX,thinkgeek.com
 DOMAIN-SUFFIX,tracfone.com
+DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,uploader.jp
 DOMAIN-SUFFIX,vevo.com
 DOMAIN-SUFFIX,viu.tv
@@ -520,6 +529,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,ctitv.com.tw
 DOMAIN-SUFFIX,cuhk.edu.hk
 DOMAIN-SUFFIX,cusu.hk
+DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discuss.com.hk
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,duolingo.cn

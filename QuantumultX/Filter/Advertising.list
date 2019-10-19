@@ -50,9 +50,11 @@ host-suffix, inmobi.net, reject
 host-suffix, inmobicdn.cn, reject
 host-suffix, inmobicdn.net, reject
 host-suffix, inner-active.mobi, reject
+host-suffix, insurads.com, reject
 host-suffix, ironsrc.com, reject
 host-suffix, irs01.com, reject
 host-suffix, iskyworker.com, reject
+host-suffix, juicyads.com, reject
 host-suffix, kochava.com, reject
 host-suffix, leadboltmobile.net, reject
 host-suffix, lenzmx.com, reject
@@ -93,6 +95,7 @@ host-suffix, vidoomy.com, reject
 host-suffix, voicefive.com, reject
 host-suffix, vungle.com, reject
 host-suffix, wedolook.com, reject
+host-suffix, wshtgame.com, reject
 host-suffix, xdrig.com, reject
 
 host-suffix, ad.daum.net, reject

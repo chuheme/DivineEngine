@@ -35,6 +35,7 @@ host-suffix, channel4.com, proxy
 # > AbemaTV
 user-agent, AbemaTV*, proxy
 host-suffix, abema.io, proxy
+host-suffix, abema.tv, proxy
 host-suffix, ameba.jp, proxy
 host-suffix, hayabusa.io, proxy
 host, abematv.akamaized.net, proxy
@@ -89,10 +90,16 @@ host, bcbolthboa-a.akamaihd.net, proxy
 host, cf-images.ap-southeast-1.prod.boltdns.net, proxy
 host, manifest.prod.boltdns.net, proxy
 host, s3-ap-southeast-1.amazonaws.com, proxy
+# > 华文电视
+user-agent, HWTVMobile*, proxy
+host-suffix, 5itv.tv, proxy
 # > Hulu
 host-suffix, hulu.com, proxy
 host-suffix, huluim.com, proxy
 host-suffix, hulustream.com, proxy
+# > Hulu(フールー)
+host-suffix, happyon.jp, proxy
+host-suffix, hulu.jp, proxy
 # > ITV
 user-agent, ITV_Player*, proxy
 host-suffix, itv.com, proxy
@@ -108,9 +115,6 @@ host, kktv-theater.kk.stream, proxy
 user-agent, LINE%20TV*, proxy
 host-suffix, linetv.tw, proxy
 host, d3c7rimkq79yfu.cloudfront.net, proxy
-# > Hulu(フールー)
-host-suffix, happyon.jp, proxy
-host-suffix, hulu.jp, proxy
 # > LiTV
 host-suffix, litv.tv, proxy
 host, litvfreemobile-hichannel.cdn.hinet.net, proxy
@@ -148,6 +152,10 @@ host-suffix, pbs.org, proxy
 host-suffix, phncdn.com, proxy
 host-suffix, pornhub.com, proxy
 host-suffix, pornhubpremium.com, proxy
+# > 台湾好
+user-agent, TaiwanGood*, proxy
+host-suffix, skyking.com.tw, proxy
+host, hamifans.emome.net, proxy
 # > Twitch
 host-suffix, twitch.tv, proxy
 host-suffix, twitchcdn.net, proxy

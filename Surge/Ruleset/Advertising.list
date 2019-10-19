@@ -50,9 +50,11 @@ DOMAIN-SUFFIX,inmobi.net
 DOMAIN-SUFFIX,inmobicdn.cn
 DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,insurads.com
 DOMAIN-SUFFIX,ironsrc.com
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,iskyworker.com
+DOMAIN-SUFFIX,juicyads.com
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,leadboltmobile.net
 DOMAIN-SUFFIX,lenzmx.com
@@ -93,6 +95,7 @@ DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,voicefive.com
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,wedolook.com
+DOMAIN-SUFFIX,wshtgame.com
 DOMAIN-SUFFIX,xdrig.com
 
 DOMAIN-SUFFIX,ad.daum.net
@@ -532,6 +535,8 @@ URL-REGEX,^https?:\/\/www\.dandanzan\.com\/res\/gdsefse\.js
 URL-REGEX,^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd
 # > 丁香医生
 URL-REGEX,^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch
+# > 嘀嗒出行
+URL-REGEX,^https?:\/\/capis-slb\.didapinche\.com\/ad\/
 
 # E
 # > eLong
@@ -551,7 +556,7 @@ URL-REGEX,^https?:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?m
 URL-REGEX,^https?:\/\/app\.variflight\.com\/ad\/
 URL-REGEX,^https?:\/\/app\.variflight\.com\/v\d\/advert\/
 # > FENG
-URL-REGEX,^https?:\/\/(api|gapi)\.feng\.com\/v\d\/advertisement\/
+URL-REGEX,^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch
 
 # G
 # > Google
@@ -569,6 +574,8 @@ URL-REGEX,^https?:\/\/.+\.youtube\.com\/ptracking
 URL-REGEX,^https?:\/\/gateway\.shouqiev\.com\/fsda\/app\/bootImage\.json
 # > GoodBodivis
 URL-REGEX,^https?:\/\/www\.bodivis\.com\.cn\/app\/splashAdvertise
+# > 国泰君安
+URL-REGEX,^https?:\/\/dl\.app\.gtja\.com\/dzswem\/kvController\/.+\.jpg$
 
 # H
 # > 杭州公交
@@ -628,8 +635,6 @@ URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
 # > Kuwo
 URL-REGEX,^https?:\/\/122\.14\.246\.33\/MobileAdServer\/
 URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/EcomResourceServer/AdPlayPage/adinfo
-# > 看理想
-URL-REGEX,^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement
 
 # L
 # > Le
@@ -746,8 +751,7 @@ URL-REGEX,^https?:\/\/pic\.k\.sohu\.com\/img8\/wb\/tj\/
 URL-REGEX,^https?:\/\/s1\.api\.tv\.itc\.cn\/v4\/mobile\/control\/switch\.json
 URL-REGEX,^https?:\/\/api\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap
 # > StarFans
-URL-REGEX,^https?:\/\/a\.sfansclub\.com\/business\/t\/ad\/
-URL-REGEX,^https?:\/\/a\.sfansclub\.com\/business\/t\/boot\/screen\/index
+URL-REGEX,^https?:\/\/g\.cdn\.pengpengla\.com\/starfantuan\/boot-screen-info\/
 # > 什么值得买
 URL-REGEX,^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading
 # > 四季線上影視4gTV
@@ -856,6 +860,8 @@ URL-REGEX,^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad
 URL-REGEX,^https?:\/\/app\.yinxiang\.com\/ads\/
 # > 云麦好轻
 URL-REGEX,^https?:\/\/restapi\.iyunmai\.com\/api\/ios\/ad\/
+# > 育学园
+URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
 
 # Z
 # > 直播吧

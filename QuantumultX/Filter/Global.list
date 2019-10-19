@@ -116,6 +116,7 @@ host-suffix, castbox.fm, proxy
 host-suffix, cbc.ca, proxy
 host-suffix, cdw.com, proxy
 host-suffix, change.org, proxy
+host-suffix, channelnewsasia.com, proxy
 host-suffix, ck101.com, proxy
 host-suffix, clarionproject.org, proxy
 host-suffix, clyp.it, proxy
@@ -155,7 +156,9 @@ host-suffix, elpais.com, proxy
 host-suffix, enanyang.my, proxy
 host-suffix, encyclopedia.com, proxy
 host-suffix, esoir.be, proxy
+host-suffix, etherscan.io, proxy
 host-suffix, euronews.com, proxy
+host-suffix, evozi.com, proxy
 host-suffix, feedly.com, proxy
 host-suffix, firech.at, proxy
 host-suffix, flickr.com, proxy
@@ -257,6 +260,7 @@ host-suffix, orientaldaily.com.my, proxy
 host-suffix, overcast.fm, proxy
 host-suffix, paltalk.com, proxy
 host-suffix, pao-pao.net, proxy
+host-suffix, parsevideo.com, proxy
 host-suffix, pbxes.com, proxy
 host-suffix, pcdvd.com.tw, proxy
 host-suffix, pchome.com.tw, proxy
@@ -267,9 +271,11 @@ host-suffix, pixiv.net, proxy
 host-suffix, player.fm, proxy
 host-suffix, plurk.com, proxy
 host-suffix, po18.tw, proxy
+host-suffix, potato.im, proxy
 host-suffix, potatso.com, proxy
 host-suffix, prism-break.org, proxy
 host-suffix, proxifier.com, proxy
+host-suffix, pt.im, proxy
 host-suffix, pts.org.tw, proxy
 host-suffix, pubu.com.tw, proxy
 host-suffix, pubu.tw, proxy
@@ -284,6 +290,7 @@ host-suffix, reddit.com, proxy
 host-suffix, redditmedia.com, proxy
 host-suffix, resilio.com, proxy
 host-suffix, reuters.com, proxy
+host-suffix, reutersmedia.net, proxy
 host-suffix, rfi.fr, proxy
 host-suffix, rixcloud.com, proxy
 host-suffix, roadshow.hk, proxy
@@ -308,6 +315,7 @@ host-suffix, teddysun.com, proxy
 host-suffix, textnow.me, proxy
 host-suffix, theguardian.com, proxy
 host-suffix, theinitium.com, proxy
+host-suffix, thetvdb.com, proxy
 host-suffix, tineye.com, proxy
 host-suffix, torproject.org, proxy
 host-suffix, tumblr.com, proxy
@@ -407,6 +415,7 @@ host-suffix, superpages.com, proxy
 host-suffix, target.com, proxy
 host-suffix, thinkgeek.com, proxy
 host-suffix, tracfone.com, proxy
+host-suffix, unity3d.com, proxy
 host-suffix, uploader.jp, proxy
 host-suffix, vevo.com, proxy
 host-suffix, viu.tv, proxy
@@ -518,6 +527,7 @@ host-suffix, cloudfront.net, proxy
 host-suffix, ctitv.com.tw, proxy
 host-suffix, cuhk.edu.hk, proxy
 host-suffix, cusu.hk, proxy
+host-suffix, discord.gg, proxy
 host-suffix, discuss.com.hk, proxy
 host-suffix, dropboxapi.com, proxy
 host-suffix, duolingo.cn, proxy
