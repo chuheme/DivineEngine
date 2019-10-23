@@ -30,8 +30,11 @@ host-suffix, whatsapp.com, proxy
 host-suffix, whatsapp.net, proxy
 host-keyword, facebook, proxy
 ip-cidr, 3.123.36.126/32, proxy
+ip-cidr, 35.157.215.84/32, proxy
+ip-cidr, 35.157.217.255/32, proxy
 ip-cidr, 52.58.209.134/32, proxy
 ip-cidr, 54.93.124.31/32, proxy
+ip-cidr, 54.162.243.80/32, proxy
 ip-cidr, 54.173.34.141/32, proxy
 ip-cidr, 54.235.23.242/32, proxy
 ip-cidr, 169.45.248.118/32, proxy
@@ -239,7 +242,6 @@ host-suffix, neowin.net, proxy
 host-suffix, newstapa.org, proxy
 host-suffix, nexitally.com, proxy
 host-suffix, nhk.or.jp, proxy
-host-suffix, nicovideo.jp, proxy
 host-suffix, nii.ac.jp, proxy
 host-suffix, nikkei.com, proxy
 host-suffix, nofile.io, proxy
@@ -301,7 +303,6 @@ host-suffix, shadowsocks.org, proxy
 host-suffix, shopee.tw, proxy
 host-suffix, slideshare.net, proxy
 host-suffix, softfamous.com, proxy
-host-suffix, soundcloud.com, proxy
 host-suffix, ssrcloud.org, proxy
 host-suffix, startpage.com, proxy
 host-suffix, steamcommunity.com, proxy

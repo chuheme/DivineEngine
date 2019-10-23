@@ -250,6 +250,7 @@ host-suffix, fengkongcloud.com, direct
 host-suffix, frdic.com, direct
 host-suffix, futu5.com, direct
 host-suffix, futunn.com, direct
+host-suffix, gandi.net, direct
 host-suffix, geilicdn.com, direct
 host-suffix, getpricetag.com, direct
 host-suffix, gifshow.com, direct
@@ -276,6 +277,7 @@ host-suffix, maoyun.tv, direct
 host-suffix, meituan.com, direct
 host-suffix, meituan.net, direct
 host-suffix, mobike.com, direct
+host-suffix, moke.com, direct
 host-suffix, mubu.com, direct
 host-suffix, myzaker.com, direct
 host-suffix, nim-lang-cn.org, direct
@@ -290,6 +292,7 @@ host-suffix, qyerstatic.com, direct
 host-suffix, raychase.net, direct
 host-suffix, ronghub.com, direct
 host-suffix, ruguoapp.com, direct
+host-suffix, s-reader.com, direct
 host-suffix, sankuai.com, direct
 host-suffix, scomper.me, direct
 host-suffix, seafile.com, direct
@@ -297,7 +300,6 @@ host-suffix, sm.ms, direct
 host-suffix, smzdm.com, direct
 host-suffix, snapdrop.net, direct
 host-suffix, snwx.com, direct
-host-suffix, s-reader.com, direct
 host-suffix, sspai.com, direct
 host-suffix, takungpao.com, direct
 host-suffix, teamviewer.com, direct
@@ -318,6 +320,7 @@ host-suffix, zhihu.com, direct
 host-suffix, zhimg.com, direct
 host-suffix, zhuihd.com, direct
 host-suffix, download.jetbrains.com, direct
+host-suffix, images-cn.ssl-images-amazon.com, direct
 
 # GeoIP China
 geoip, cn, direct

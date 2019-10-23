@@ -72,6 +72,7 @@ host-suffix, mmstat.com, reject
 host-suffix, moatads.com, reject
 host-suffix, mobclix.com, reject
 host-suffix, mopub.com, reject
+host-suffix, okjhb.xyz, reject
 host-suffix, openx.net, reject
 host-suffix, qchannel01.cn, reject
 host-suffix, rayjump.com, reject
@@ -97,6 +98,7 @@ host-suffix, vungle.com, reject
 host-suffix, wedolook.com, reject
 host-suffix, wshtgame.com, reject
 host-suffix, xdrig.com, reject
+host-suffix, zu08e.cn, reject
 
 host-suffix, ad.daum.net, reject
 host-suffix, track.xiachufang.com, reject
@@ -120,8 +122,6 @@ host, adsdk.dmzj.com, reject
 host, adserver.pandora.com, reject
 host, adui.tg.meitu.com, reject
 host, adv.bandi.so, reject
-host, adx.hupu.com, reject
-host, adx-api.hupu.com, reject
 host, adxserver.ad.cmvideo.cn, reject
 host, app-ad.variflight.com, reject
 host, applog.mobike.com, reject
@@ -197,8 +197,8 @@ host, xlog-va.byteoversea.com, reject
 host, adx.yiche.com, reject
 host, log.ycapp.yiche.com, reject
 # > 百词斩
-host, advertise.baicizhan.org, reject
 host, advertise.baicizhan.com, reject
+host, advertise.baicizhan.org, reject
 # (C)
 # > CNTV
 host, galaxy.bjcathay.com, reject
@@ -206,6 +206,7 @@ host, mdrecv.app.cntvwb.cn, reject
 host, sdapprecv.app.cntvwb.cn, reject
 host, vdapprecv.app.cntvwb.cn, reject
 # > ChinaNet
+host, ad.k.21cn.com, reject
 host, admarket.21cn.com, reject
 host, adshows.21cn.com, reject
 # > 车来了
@@ -226,6 +227,10 @@ host-suffix, da.hunantv.com, reject
 host-suffix, log.hunantv.com, reject
 host, log.v2.hunantv.com, reject
 host, v2.log.hunantv.com, reject
+# > Hupu
+host, ad-goblin.hupu.com, reject
+host, adx.hupu.com, reject
+host, adx-api.hupu.com, reject
 # (I)
 # > iQiyi
 host, ifacelog.iqiyi.com, reject

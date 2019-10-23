@@ -1,6 +1,7 @@
 # Unbreak
 # > General
 user-agent, coffeecorp*, direct
+user-agent, restaurant-mobile*, direct
 host, app.adjust.com, direct
 # > Google
 host-suffix, googletraveladservices.com, direct

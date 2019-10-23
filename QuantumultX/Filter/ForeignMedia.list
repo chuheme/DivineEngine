@@ -15,6 +15,11 @@ host-suffix, joox.com, proxy
 # > Pandora
 user-agent, Pandora*, proxy
 host-suffix, pandora.com, proxy
+# > SoundCloud
+user-agent, SoundCloud*, proxy
+host-suffix, p-cdn.us, proxy
+host-suffix, sndcdn.com, proxy
+host-suffix, soundcloud.com, proxy
 # > Spotify
 user-agent, Spotify*, proxy
 host-suffix, pscdn.co, proxy
@@ -93,6 +98,7 @@ host, s3-ap-southeast-1.amazonaws.com, proxy
 # > 华文电视
 user-agent, HWTVMobile*, proxy
 host-suffix, 5itv.tv, proxy
+host-suffix, ocnttv.com, proxy
 # > Hulu
 host-suffix, hulu.com, proxy
 host-suffix, huluim.com, proxy
@@ -148,6 +154,12 @@ ip-cidr, 198.45.48.0/20, proxy
 # > PBS
 user-agent, PBS*, proxy
 host-suffix, pbs.org, proxy
+# > niconico
+user-agent, Niconico, proxy
+host-suffix, dmc.nico, proxy
+host-suffix, nicovideo.jp, proxy
+host-suffix, nimg.jp, proxy
+host-suffix, socdm.com, proxy
 # > Pornhub
 host-suffix, phncdn.com, proxy
 host-suffix, pornhub.com, proxy

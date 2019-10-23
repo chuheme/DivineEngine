@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,joox.com
 # > Pandora
 USER-AGENT,Pandora*
 DOMAIN-SUFFIX,pandora.com
+# > SoundCloud
+USER-AGENT,SoundCloud*
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
 # > Spotify
 USER-AGENT,Spotify*
 DOMAIN-SUFFIX,pscdn.co
@@ -98,6 +103,7 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com
 # > 华文电视
 USER-AGENT,HWTVMobile*
 DOMAIN-SUFFIX,5itv.tv
+DOMAIN-SUFFIX,ocnttv.com
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
@@ -150,6 +156,12 @@ IP-CIDR,108.175.32.0/20,no-resolve
 IP-CIDR,192.173.64.0/18,no-resolve
 IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
+# > niconico
+USER-AGENT,Niconico
+DOMAIN-SUFFIX,dmc.nico,force-remote-dns
+DOMAIN-SUFFIX,nicovideo.jp,force-remote-dns
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,socdm.com
 # > PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
