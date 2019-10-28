@@ -735,7 +735,7 @@ URL-REGEX,^https?:\/\/media\.qyer\.com\/ad\/
 # > 亲宝宝
 URL-REGEX,^https?:\/\/api\.qbb6\.com\/ad\/
 
-# > R
+# R
 # > 人人视频
 URL-REGEX,^https?:\/\/msspjh\.emarbox\.com\/getAdConfig
 URL-REGEX,^https?:\/\/api\.videozhishi\.com\/api\/getAdvertising
