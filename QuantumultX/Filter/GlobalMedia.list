@@ -1,4 +1,4 @@
-# (ForeignMedia)
+# (GlobalMedia)
 # (Music)
 # > Deezer
 user-agent, Deezer*, proxy
@@ -151,15 +151,15 @@ ip-cidr, 108.175.32.0/20, proxy
 ip-cidr, 192.173.64.0/18, proxy
 ip-cidr, 198.38.96.0/19, proxy
 ip-cidr, 198.45.48.0/20, proxy
-# > PBS
-user-agent, PBS*, proxy
-host-suffix, pbs.org, proxy
 # > niconico
 user-agent, Niconico, proxy
 host-suffix, dmc.nico, proxy
 host-suffix, nicovideo.jp, proxy
 host-suffix, nimg.jp, proxy
 host-suffix, socdm.com, proxy
+# > PBS
+user-agent, PBS*, proxy
+host-suffix, pbs.org, proxy
 # > Pornhub
 host-suffix, phncdn.com, proxy
 host-suffix, pornhub.com, proxy
