@@ -10,4 +10,3 @@ host-suffix, icloud-content.com, direct
 host-suffix, me.com, direct
 host-suffix, mzstatic.com, direct
 host, www-cdn.icloud.com.akadns.net, direct
-IP-CIDR,17.0.0.0/8, direct

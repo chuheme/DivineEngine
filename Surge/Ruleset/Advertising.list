@@ -228,9 +228,9 @@ DOMAIN-SUFFIX,log.hunantv.com
 DOMAIN,log.v2.hunantv.com
 DOMAIN,v2.log.hunantv.com
 # > Hupu
-DOMAIN,ad-goblin.hupu.com
 DOMAIN,adx.hupu.com
 DOMAIN,adx-api.hupu.com
+DOMAIN,goblin.hupu.com
 # (I)
 # > iQiyi
 DOMAIN,ifacelog.iqiyi.com
@@ -541,7 +541,8 @@ URL-REGEX,^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd
 # > 丁香医生
 URL-REGEX,^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch
 # > 嘀嗒出行
-URL-REGEX,^https?:\/\/capis-slb\.didapinche\.com\/ad\/
+URL-REGEX,^https?:\/\/capis(-slb)?\.didapinche\.com\/ad\/
+URL-REGEX,^https?:\/\/www\.didapinche\.com\/app\/adstat\/
 
 # E
 # > eLong
