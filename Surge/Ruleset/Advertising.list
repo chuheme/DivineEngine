@@ -673,7 +673,7 @@ URL-REGEX,^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg
 URL-REGEX,^https?:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+\.jpg\?may_covertWebp
 URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+\/linglong\/.+\.(gif|jpg|mp4)
 # > 美味不用等
-URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d{2}/app/getstartad
+URL-REGEX,^https?:\/\/capi.mwee.cn/app-api/V\d{2}/app/(ad|getstartad)
 # > 咪咕
 URL-REGEX,^https?:\/\/.+\/v\d\/iflyad\/
 URL-REGEX,^https?:\/\/.+\/cdn-adn\/
