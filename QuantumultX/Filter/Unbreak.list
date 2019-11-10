@@ -7,8 +7,9 @@ host, app.adjust.com, direct
 host-suffix, googletraveladservices.com, direct
 host, dl.google.com, direct
 host, mtalk.google.com, direct
-# > TencentVideo for macOS
-host-suffix, vd.l.qq.com, direct
+# > Tencent
+host, livew.l.qq.com, direct
+host, vd.l.qq.com, direct
 # > Strava
 host, analytics.strava.com, direct
 # > Umeng

@@ -324,3 +324,5 @@ host-suffix, images-cn.ssl-images-amazon.com, direct
 
 # GeoIP China
 geoip, cn, direct
+# DNSPod Public DNS+
+ip-cidr, 119.28.28.28/32, direct
