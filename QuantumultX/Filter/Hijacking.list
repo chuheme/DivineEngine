@@ -1,4 +1,4 @@
-# Internet Service Provider Hijacking 运营商劫持
+# Internet Service Providers Hijacking 运营商劫持
 host-suffix, 17gouwuba.com, reject
 host-suffix, 186078.com, reject
 host-suffix, 189zj.cn, reject
@@ -51,6 +51,8 @@ host-suffix, ichaosheng.com, reject
 host-suffix, ishop789.com, reject
 host-suffix, jdkic.com, reject
 host-suffix, jiubuhua.com, reject
+host-suffix, jsncke.com, reject
+host-suffix, junkucm.com, reject
 host-suffix, jwg365.cn, reject
 host-suffix, kawo77.com, reject
 host-suffix, kualianyingxiao.cn, reject
@@ -92,8 +94,11 @@ host-suffix, tuia.cn, reject
 host-suffix, tuipenguin.com, reject
 host-suffix, tuitiger.com, reject
 host-suffix, websd8.com, reject
+host-suffix, wsgblw.com, reject
 host-suffix, wx16999.com, reject
+host-suffix, xchmai.com, reject
 host-suffix, xiaohuau.xyz, reject
+host-suffix, ygyzx.cn, reject
 host-suffix, yinmong.com, reject
 host-suffix, yitaopt.com, reject
 host-suffix, yjqiqi.com, reject
@@ -107,13 +112,15 @@ ip-cidr, 39.107.15.115/32, reject
 ip-cidr, 47.89.59.182/32, reject
 ip-cidr, 103.49.209.27/32, reject
 ip-cidr, 123.56.152.96/32, reject
-# > ChinaNet
+# > ChinaTelecom
 ip-cidr, 61.160.200.223/32, reject
 ip-cidr, 61.160.200.242/32, reject
 ip-cidr, 61.160.200.252/32, reject
 ip-cidr, 61.174.50.214/32, reject
 ip-cidr, 111.175.220.163/32, reject
 ip-cidr, 111.175.220.164/32, reject
+ip-cidr, 122.229.8.47/32, reject
+ip-cidr, 122.229.29.89/32, reject
 ip-cidr, 124.232.160.178/32, reject
 ip-cidr, 175.6.223.15/32, reject
 ip-cidr, 183.59.53.237/32, reject
@@ -134,7 +141,7 @@ ip-cidr, 114.247.28.96/32, reject
 ip-cidr, 221.179.131.72/32, reject
 ip-cidr, 221.179.140.145/32, reject
 # > Dr.Peng
-ip-cidr, 10.72.25.0/24, reject
+# ip-cidr, 10.72.25.0/24, reject
 ip-cidr, 115.182.16.79/32, reject
 ip-cidr, 118.144.88.126/32, reject
 ip-cidr, 118.144.88.215/32, reject
@@ -147,17 +154,25 @@ ip-cidr, 211.161.101.106/32, reject
 ip-cidr, 220.115.251.25/32, reject
 ip-cidr, 222.73.156.235/32, reject
 
-# Infamous 声名狼藉
+# Malware 恶意网站
+# > 快压
+# https://zhuanlan.zhihu.com/p/39534279
 host-suffix, kuaizip.com, reject
+# > MacKeeper
+# https://www.lizhi.io/blog/40002904
 host-suffix, mackeeper.com, reject
-# > Adobe 奥多比
+host-suffix, zryydi.com, reject
+# > Adobe Flash China Special Edition
+# https://www.zhihu.com/question/281163698/answer/441388130
 host-suffix, flash.cn, reject
 host, geo2.adobe.com, reject
-# > CJ Marketing 思杰马克丁软件
+# > C&J Marketing 思杰马克丁软件
+# https://www.zhihu.com/question/46746200
 host-suffix, 4009997658.com, reject
 host-suffix, abbyychina.com, reject
 host-suffix, bartender.cc, reject
 host-suffix, betterzip.net, reject
+host-suffix, betterzipcn.com, reject
 host-suffix, beyondcompare.cc, reject
 host-suffix, bingdianhuanyuan.cn, reject
 host-suffix, chemdraw.com.cn, reject

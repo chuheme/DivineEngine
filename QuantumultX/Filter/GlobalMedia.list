@@ -40,8 +40,8 @@ host-suffix, channel4.com, proxy
 # > AbemaTV
 user-agent, AbemaTV*, proxy
 host-suffix, abema.io, proxy
-host-suffix, abema.tv, proxy
 host-suffix, ameba.jp, proxy
+host-suffix, abema.tv, proxy
 host-suffix, hayabusa.io, proxy
 host, abematv.akamaized.net, proxy
 host, ds-linear-abematv.akamaized.net, proxy
@@ -50,6 +50,10 @@ host, linear-abematv.akamaized.net, proxy
 # > Amazon Prime Video
 user-agent, InstantVideo.US*, proxy
 user-agent, Prime%20Video*, proxy
+host-suffix, aiv-cdn.net, proxy
+host-suffix, aiv-delivery.net, proxy
+host-suffix, amazonvideo.com, proxy
+host-suffix, media-amazon.com, proxy
 host-suffix, primevideo.com, proxy
 # > Bahamut
 user-agent, Anime*, proxy
@@ -65,36 +69,48 @@ host-keyword, bbcfmt, proxy
 host-keyword, uk-live, proxy
 # > DAZN
 user-agent, DAZN*, proxy
-host-keyword, dazn.com, proxy
+host-suffix, dazn.com, proxy
+host-suffix, dazn-api.com, proxy
+host, d151l6v8er5bdm.cloudfront.net, proxy
+host-keyword, voddazn, proxy
+# > Disney+
+user-agent, Disney+*, proxy
+host-suffix, bamgrid.com, proxy
+host-suffix, disney-plus.net, proxy
+host-suffix, disneyplus.com, proxy
+host-suffix, dssott.com, proxy
+host, cdn.registerdisney.go.com, proxy
 # > encoreTVB
 user-agent, encoreTVB*, proxy
 host-suffix, encoretvb.com, proxy
 host, edge.api.brightcove.com, proxy
 host, bcbolt446c5271-a.akamaihd.net, proxy
-# > Fox+ & Fox Now
+# > FOX NOW
 user-agent, FOX%20NOW*, proxy
-user-agent, FOXPlus*, proxy
-host-suffix, dashasiafox.akamaized.net, proxy
 host-suffix, fox.com, proxy
 host-suffix, foxdcg.com, proxy
-host-suffix, foxplus.com, proxy
-host-suffix, staticasiafox.akamaized.net, proxy
 host-suffix, theplatform.com, proxy
 host-suffix, uplynk.com, proxy
-# > HBO Now & HBO GO
+# > HBO NOW
 user-agent, HBO%20NOW*, proxy
-user-agent, HBO%20GO*, proxy
-user-agent, HBOAsia*, proxy
 host-suffix, hbo.com, proxy
 host-suffix, hbogo.com, proxy
-host-suffix, hboasia.com, proxy
-host-suffix, hbogo.com, proxy
+host-suffix, hbonow.com, proxy
+# > HBO GO HKG
+user-agent, HBO%20GO%20PROD%20HKG*, proxy
+host-suffix, hbogoasia.com, proxy
 host-suffix, hbogoasia.hk, proxy
-host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, proxy
 host, bcbolthboa-a.akamaihd.net, proxy
-host, cf-images.ap-southeast-1.prod.boltdns.net, proxy
-host, manifest.prod.boltdns.net, proxy
+host, players.brightcove.net, proxy
 host, s3-ap-southeast-1.amazonaws.com, proxy
+host, dai3fd1oh325y.cloudfront.net, proxy
+host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, proxy
+host, hboasia1-i.akamaihd.net, proxy
+host, hboasia2-i.akamaihd.net, proxy
+host, hboasia3-i.akamaihd.net, proxy
+host, hboasia4-i.akamaihd.net, proxy
+host, hboasia5-i.akamaihd.net, proxy
+host, cf-images.ap-southeast-1.prod.boltdns.net, proxy
 # > 华文电视
 user-agent, HWTVMobile*, proxy
 host-suffix, 5itv.tv, proxy
@@ -129,7 +145,7 @@ user-agent, My5*, proxy
 host-suffix, channel5.com, proxy
 host-suffix, my5.tv, proxy
 host, d349g9zuie06uo.cloudfront.net, proxy
-# > myTV_SUPER
+# > myTV SUPER
 user-agent, mytv*, proxy
 host-suffix, mytvsuper.com, proxy
 host-suffix, tvb.com, proxy
@@ -152,7 +168,7 @@ ip-cidr, 192.173.64.0/18, proxy
 ip-cidr, 198.38.96.0/19, proxy
 ip-cidr, 198.45.48.0/20, proxy
 # > niconico
-user-agent, Niconico, proxy
+user-agent, Niconico*, proxy
 host-suffix, dmc.nico, proxy
 host-suffix, nicovideo.jp, proxy
 host-suffix, nimg.jp, proxy

@@ -15,6 +15,7 @@ host-suffix, admob.com, reject
 host-suffix, adnxs.com, reject
 host-suffix, adnyg.com, reject
 host-suffix, adsensor.org, reject
+host-suffix, adsymptotic.com, reject
 host-suffix, adtarget.tech, reject
 host-suffix, adthor.com, reject
 host-suffix, adwhirl.com, reject
@@ -33,16 +34,19 @@ host-suffix, apsalar.com, reject
 host-suffix, apxadtracking.net, reject
 host-suffix, axonix.com, reject
 host-suffix, bayimob.com, reject
+host-suffix, bjvvqu.cn, reject
 host-suffix, bulldogcpi.com, reject
 host-suffix, clotfun.mobi, reject
 host-suffix, clotfun.online, reject
 host-suffix, cloudmobi.net, reject
 host-suffix, cnzz.com, reject
 host-suffix, ctrmi.com, reject
+host-suffix, exosrv.com, reject
 host-suffix, flurry.com, reject
 host-suffix, go2cloud.org, reject
 host-suffix, growingio.com, reject
 host-suffix, haloapps.com, reject
+host-suffix, hypers.com, reject
 host-suffix, idealads.net, reject
 host-suffix, inmobi.cn, reject
 host-suffix, inmobi.com, reject
@@ -74,8 +78,10 @@ host-suffix, mobclix.com, reject
 host-suffix, mopub.com, reject
 host-suffix, okjhb.xyz, reject
 host-suffix, openx.net, reject
+host-suffix, pubmatic.com, reject
 host-suffix, qchannel01.cn, reject
 host-suffix, rayjump.com, reject
+host-suffix, rtbasia.com, reject
 host-suffix, rubiconproject.com, reject
 host-suffix, scorecardresearch.com, reject
 host-suffix, sdkclick.com, reject
@@ -96,7 +102,6 @@ host-suffix, vidoomy.com, reject
 host-suffix, voicefive.com, reject
 host-suffix, vungle.com, reject
 host-suffix, wedolook.com, reject
-host-suffix, wshtgame.com, reject
 host-suffix, xdrig.com, reject
 host-suffix, zu08e.cn, reject
 
@@ -205,7 +210,7 @@ host, galaxy.bjcathay.com, reject
 host, mdrecv.app.cntvwb.cn, reject
 host, sdapprecv.app.cntvwb.cn, reject
 host, vdapprecv.app.cntvwb.cn, reject
-# > ChinaNet
+# > ChinaTelecom
 host, ad.k.21cn.com, reject
 host, admarket.21cn.com, reject
 host, adshows.21cn.com, reject
@@ -345,6 +350,7 @@ host-suffix, gdt.qq.com, reject
 host-suffix, l.qq.com, reject
 host-suffix, rqd.qq.com, reject
 host, adsmind.tc.qq.com, reject
+host, adsmind.apdcdn.tc.qq.com, reject
 host, btrace.qq.com, reject
 host, mtrace.qq.com, reject
 host, oth.eve.mdt.qq.com, reject
@@ -377,7 +383,6 @@ host, ivy.pchouse.com.cn, reject
 # (U)
 # > UC
 host, adtrack.ucweb.com, reject
-host, applogios.uc.cn, reject
 host, track.uc.cn, reject
 # > Umeng
 host, alog.umeng.co, reject
@@ -403,6 +408,7 @@ host, adse.wsa.ximalaya.com, reject
 host, adbehavior.wsa.ximalaya.com, reject
 host, adsebs.ximalaya.com, reject
 # > 小红书
+host, ads-video-qc.xhscdn.com, reject
 host, apm-track.xiaohongshu.com, reject
 host, t-ads.xiaohongshu.com, reject
 # (Y)
