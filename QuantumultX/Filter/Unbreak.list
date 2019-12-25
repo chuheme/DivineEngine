@@ -5,6 +5,8 @@ user-agent, restaurant-mobile*, direct
 host, app.adjust.com, direct
 # > Google
 host-suffix, googletraveladservices.com, direct
+host, analyticsinsights-pa.googleapis.com, proxy
+host, analyticsreporting.googleapis.com, proxy
 host, dl.google.com, direct
 host, mtalk.google.com, direct
 # > Tencent

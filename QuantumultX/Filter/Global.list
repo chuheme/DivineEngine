@@ -1,5 +1,6 @@
 # (DNS Cache Pollution Protection)
 # > Google
+host-suffix, ampproject.org, proxy
 host-suffix, appspot.com, proxy
 host-suffix, blogger.com, proxy
 host-suffix, getoutline.org, proxy
@@ -53,12 +54,15 @@ host-suffix, tdesktop.com, proxy
 host-suffix, telegra.ph, proxy
 host-suffix, telegram.me, proxy
 host-suffix, telegram.org, proxy
+ip-cidr, 67.198.55.0/24, proxy
 ip-cidr, 91.108.4.0/22, proxy
 ip-cidr, 91.108.8.0/22, proxy
 ip-cidr, 91.108.12.0/22, proxy
 ip-cidr, 91.108.16.0/22, proxy
 ip-cidr, 91.108.56.0/22, proxy
+ip-cidr, 109.239.140.0/24, proxy
 ip-cidr, 149.154.160.0/20, proxy
+ip-cidr, 205.172.60.0/22, proxy
 # > Line
 host-suffix, line.me, proxy
 host-suffix, line-apps.com, proxy
@@ -436,9 +440,6 @@ host-suffix, appsto.re, proxy
 host, books.itunes.apple.com, proxy
 # >> iTunes Store Moveis Trailers
 host, hls.itunes.apple.com, proxy
-# >> App Store Preview
-host, apps.apple.com, proxy
-host, itunes.apple.com, proxy
 # >> Spotlight
 host, api-glb-sea.smoot.apple.com, proxy
 # >> Dictionary
@@ -535,7 +536,6 @@ host-suffix, ifixit.com, proxy
 host-suffix, iphone4hongkong.com, proxy
 host-suffix, iphonetaiwan.org, proxy
 host-suffix, iptvbin.com, proxy
-host-suffix, jtvnw.net, proxy
 host-suffix, linksalpha.com, proxy
 host-suffix, manyvids.com, proxy
 host-suffix, myactimes.com, proxy

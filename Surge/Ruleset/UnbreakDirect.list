@@ -1,6 +1,7 @@
-# Unbreak
+# UnbreakDirect
 # > General
 USER-AGENT,coffeecorp*
+USER-AGENT,Coffee%20Corp*
 USER-AGENT,restaurant-mobile*
 DOMAIN,app.adjust.com
 # > Google

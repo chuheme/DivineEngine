@@ -1,4 +1,4 @@
-# Advertising 广告（以及隐私追踪）
+# Advertising
 # > General
 host-keyword, adservice, reject
 host-keyword, analytics, reject
