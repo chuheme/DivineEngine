@@ -1,6 +1,6 @@
 # (HKMTMedia)
 # > 愛奇藝台灣站
-host-suffix, iqiyi.com, proxy
+host-suffix, iqiyi.com, direct
 # > bilibili
-host-suffix, bilibili.com, proxy
-host, upos-hz-mirrorakam.akamaized.net, proxy
+host-suffix, bilibili.com, direct
+host, upos-hz-mirrorakam.akamaized.net, direct
