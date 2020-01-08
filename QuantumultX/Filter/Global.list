@@ -558,5 +558,3 @@ host-suffix, x-art.com, proxy
 host-suffix, yimg.com, proxy
 host, api.steampowered.com, proxy
 host, store.steampowered.com, proxy
-
-final, proxy
