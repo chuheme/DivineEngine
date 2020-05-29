@@ -1,5 +1,5 @@
 #!name=Get Cookies
-#!desc=Deselecting this module when you get cookeis successfully.
+#!desc=Deselecting this module when you get cookeis successfully
 #!system=ios
 
 [MITM]
