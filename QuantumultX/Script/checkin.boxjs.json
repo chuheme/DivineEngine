@@ -1,0 +1,45 @@
+{
+  "id": "evilbutcher.app.sub",
+  "name": "evilbutcher 应用订阅",
+  "author": "@evilbutcher",
+  "icon": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/13th.png",
+  "repo": "https://github.com/evilbutcher/Quantumult_X/tree/master",
+  "apps": [{
+    "id": "checkin",
+    "name": "机场签到",
+    "descs_html": [
+      "点此直达【<a href=\"https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js\">脚本地址</a>】",
+      "多个机场使用请用<font class=\"error--text\">中文逗号</font>分隔，顺序需要对应。",
+      "也可利用BoxJs<font class=\"error--text\">会话切换</font>功能，一次保存一个机场信息，切换会话签到。"
+    ],
+    "keys": ["evil_checkintitle", "evil_checkinlogin", "evil_checkinemail", "evil_checkinpwd"],
+    "settings": [
+      { "id": "evil_autoLogout", "name": "重新登陆", "val": false, "type": "boolean", "desc": "打开则会重新登陆后签到" },
+      { "id": "evil_checkintitle", "name": "标题", "val": "", "placeholder": "请填写，例如：隔壁西站", "type": "textarea", "desc": "请依次填入标题，以中文逗号分隔" },
+      { "id": "evil_checkinlogin", "name": "网址", "val": "", "placeholder": "请填写，例如：https://example.com/auth/login", "type": "textarea", "desc": "请依次填入网址，以中文逗号分隔" },
+      { "id": "evil_checkinemail", "name": "邮箱", "val": "", "placeholder": "请填写，例如：example@v2bz.com", "type": "textarea", "desc": "请依次填入邮箱，以中文逗号分隔" },
+      { "id": "evil_checkinpwd", "name": "密码", "val": "", "placeholder": "请填写，例如：password", "type": "textarea", "desc": "请依次填入密码，以中文逗号分隔" }
+    ],
+    "author": "@Neurogram, @evilbutcher",
+    "repo": "https://github.com/evilbutcher/Quantumult_X/tree/master/check_in/glados",
+    "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/glados_mini.png", "https://raw.githubusercontent.com/58xinian/icon/master/glados_animation.gif"],
+    "script": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js"
+  }, {
+    "id": "checkincookie",
+    "name": "机场签到Cookie版",
+    "descs_html": [
+      "点此直达【<a href=\"https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js\">脚本地址</a>】",
+      "此版本为尝试用Cookie签到，针对有登陆验证或跳转的机场。",
+      "可利用BoxJs<font class=\"error--text\">会话切换</font>功能，一次保存一个机场信息，切换会话签到。"
+    ],
+    "keys": ["evil_checkincktitle", "evil_checkinurl", "evil_checkincookie"],
+    "settings": [
+      { "id": "evil_checkincktitle", "name": "机场名称", "val": "", "type": "textarea", "desc": "手动填入机场名称" },
+      { "id": "evil_checkinurl", "name": "登录链接", "val": "", "type": "textarea", "desc": "手动填入登陆链接" }
+    ],
+    "author": "@Neurogram, @evilbutcher",
+    "repo": "https://github.com/evilbutcher/Quantumult_X/tree/master/check_in/glados",
+    "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/glados_mini.png", "https://raw.githubusercontent.com/58xinian/icon/master/glados_animation.gif"],
+    "script": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js"
+  }]
+}
