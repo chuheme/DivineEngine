@@ -2,7 +2,7 @@
   "id": "evilbutcher.app.sub",
   "name": "evilbutcher 应用订阅",
   "author": "@evilbutcher",
-  "icon": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/13th.png",
+  "icon": "https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/chuhe.box.png",
   "repo": "https://github.com/evilbutcher/Quantumult_X/tree/master",
   "apps": [{
     "id": "checkin",
@@ -39,7 +39,7 @@
     ],
     "author": "@Neurogram, @evilbutcher",
     "repo": "https://github.com/evilbutcher/Quantumult_X/tree/master/check_in/glados",
-    "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/glados_mini.png", "https://raw.githubusercontent.com/58xinian/icon/master/glados_animation.gif"],
+    "icons": ["https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Airport.png", "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Airport.png"],
     "script": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js"
   }]
 }
