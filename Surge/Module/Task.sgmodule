@@ -3,11 +3,11 @@
 #!system=ios
 
 [Script]
-隔壁西站 = type=cron,cronexp=1 20 9 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js
+隔壁西站 = type=cron,cronexp=1 20 9 * * *,script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js
 
-CCCAT = type=cron,cronexp=2 20 9 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
+CCCAT = type=cron,cronexp=2 20 9 * * *,script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
 
-京东到家 = type=cron,cronexp=4 20 9 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js
+京东到家 = type=cron,cronexp=4 20 9 * * *,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js
 
 人人视频 = type=cron,cronexp=5 20 9 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js
 
