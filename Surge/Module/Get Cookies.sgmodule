@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% cccat.io, iface?.iqiyi.com, *.bilibili.com, daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2019.com, ios.zmzapi.com, iface?.iqiyi.com, api.m.jd.com
+hostname = %APPEND% cccat.io, daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2019.com, ios.zmzapi.com, iface?.iqiyi.com, api.m.jd.com
 
 [Script]
 CCCAT = type=http-request, pattern=https:\/\/cccat\.io, script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
