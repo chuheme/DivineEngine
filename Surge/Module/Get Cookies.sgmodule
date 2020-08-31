@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% cccat.io, api.m.jd.com, *.iqiyi.com, *.bilibili.com, daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2019.com, ios.zmzapi.com
+hostname = %APPEND% cccat.io, iface?.iqiyi.com, *.bilibili.com, daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2019.com, ios.zmzapi.com, iface?.iqiyi.com, api.m.jd.com
 
 [Script]
 CCCAT = type=http-request, pattern=https:\/\/cccat\.io, script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
@@ -20,6 +20,10 @@ CCCAT = type=http-request, pattern=https:\/\/cccat\.io, script-path=https://raw.
 字幕组 = type=http-request, pattern=^https?:\/\/(www\.)?rrys2019\.com\/?.?, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.cookie.js
 字幕组 = type=http-request, pattern=^http:\/\/ios.zmzapi.com\/index.php.*a=(mobile_)?login, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.cookie.js
 
+<<<<<<< Updated upstream
 爱奇艺 = type=http-request, pattern=https?:\/\/.*\.iqiyi\.com\/.*authcookie=, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+=======
+爱奇艺 = type=http-request,pattern=^https:\/\/iface\d\.iqiyi\.com\/.+?psp_cki=,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+>>>>>>> Stashed changes
 
 京东 = type=http-request, pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
