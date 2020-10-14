@@ -13,7 +13,6 @@ CCCAT = type=http-request, pattern=https:\/\/cccat\.io, script-path=https://raw.
 人人视频 = type=http-request, pattern=^https:\/\/api\.rr\.tv\/user\/profile, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.cookie.js
 
 腾讯视频 = type=http-request, pattern=^https:\/\/access.video.qq.com\/user\/auth_refresh, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.cookie.js
-腾讯视频 = type=http-request, pattern=^https?:\/\/v.qq.com\/x\/bu\/mobile_checkin, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.cookie.js
 
 喜马拉雅 = type=http-request, pattern=^https?:\/\/.*\/mobile\-user\/homePage\/.*, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.cookie.js
 
