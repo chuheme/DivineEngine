@@ -1,0 +1,33 @@
+{   "name":"Cron task gallery",
+    "description":"Cron Task",
+    "task":[
+        "0 20 9 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/v2bz.png, tag=隔壁西站, enabled=true",
+        "2 20 9 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CCCAT.png, tag=CCCAT, enabled=true",
+        "4 20 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/jddj.png, tag=京东到家, enabled=true",
+        "6 20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/rrtv.png, tag=人人视频, enabled=true",
+        "8 20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/txsp.png, tag=腾讯视频, enabled=true",
+        "10 20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/hmly.png, tag=喜马拉雅, enabled=true",
+        "12 20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/zmz.png, tag=字幕组, enabled=true",
+        "14 20 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/iQIYI.png, tag=爱奇艺, enabled=true",
+        "16 20 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, img-url=https://raw.githubusercontent.com/chuheme/DivineEngine/master/QuantumultX/Icon/jd.png, tag=京东, enabled=true", 
+
+        "5 6-18/6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png, tag=东东农场, enabled=true",
+        "20 7-19/6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pet.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, tag=东东萌宠, enabled=true",
+        "10 7-21/2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, tag=京东种豆得豆, enabled=true",
+        "15 */2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, tag=宠汪汪, enabled=true",
+        "12 */1 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_feedPets.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, tag=宠汪汪喂食, enabled=true",
+        "0 0,6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_steal.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, tag=宠汪汪偷好友积分与狗粮, enabled=true",
+        "1 0,8,12,16 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_reward.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, tag=宠汪汪积分兑换奖品, enabled=true",
+        "8 */3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_speed.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdjs.png, tag=京东天天加速, enabled=true",
+        "15 */5 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_moneyTree.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyqs.png, tag=京东摇钱树, enabled=true",
+        "5 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_club_lottery.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, tag=摇京豆, enabled=true",
+        "11 1-23/5 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, tag=京小超, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_blueCoin.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, tag=京小超领蓝币(兑换京豆), enabled=true",
+        "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unsubscribe.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, tag=取关京东店铺商品, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_shop.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, tag=进店领豆, enabled=true",
+        "15 10 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, tag=宠汪汪邀请助力与赛跑助力, enabled=true",
+        "1 1 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_redPacket.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, tag=京东全民开红包, enabled=true",
+        "2 9 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_change.js, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, tag=京豆变动通知, enabled=true",
+        "20 0,20 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_necklace.js, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=点点券, enabled=true" 
+    ]
+}
