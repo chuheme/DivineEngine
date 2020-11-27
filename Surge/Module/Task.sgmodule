@@ -1,5 +1,5 @@
-#!name=Task Cron
-#!desc=Script
+#!name=Cron Task
+#!desc=自动任务合集
 #!system=ios
 
 [Script]
