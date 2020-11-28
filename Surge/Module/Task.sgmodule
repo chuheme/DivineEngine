@@ -73,5 +73,3 @@ CCCAT = type=cron,cronexp=2 20 9 * * *,script-path=https://raw.githubusercontent
 电视家 = type=cron,cronexp=0 8 0 * * *,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js,script-update-interval=0
 
 企鹅读书 = type=cron,cronexp=*/11 * * * *,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js,script-update-interval=0
-
-QQ阅读APP = type=cron,cronexp=0 10 0 * * *,script-path=https://gitee.com/hanfuxing/personal-collection/raw/master/QQReadSign.js
