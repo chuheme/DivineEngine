@@ -87,9 +87,9 @@ CCCAT = type=cron,cronexp=2 20 9 * * *,script-path=https://raw.githubusercontent
 京东赚赚 = type=cron,cronexp=0 9 * * *,wake-system=1,timeout=60,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js
 
 # 薅
-中青看点 = type=cron,cronexp=5 */10 7-19 * * *,wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js,script-update-interval=0
+中青看点 = type=cron,cronexp=5 */10 6-19 * * *,wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js,script-update-interval=0
 
-中青看点自动阅读 = type=cron,cronexp=5 7-19/1.5 * * *, wake-system=1,timeout=7200,script-path=https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js,script-update-interval=0
+中青看点自动阅读 = type=cron,cronexp=5 6-19/1.5 * * *, wake-system=1,timeout=7200,script-path=https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js,script-update-interval=0
 
 电视家 = type=cron,cronexp=0 8 0 * * *,wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js,script-update-interval=0
 
