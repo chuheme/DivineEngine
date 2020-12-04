@@ -97,4 +97,4 @@ CCCAT = type=cron,cronexp=2 20 9 * * *,script-path=https://raw.githubusercontent
 
 企鹅读书 = type=cron,cronexp=*/11 * * * *,wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js,script-update-interval=0
 
-惠头条 = type=cron,cronexp=0 0/2 * * * ?,wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/htt_task_4.js,script-update-interval=0
+惠头条 = type=cron,cronexp=0 0/2 * * * ?,wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js,script-update-interval=0
