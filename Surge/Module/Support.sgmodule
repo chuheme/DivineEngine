@@ -1,5 +1,5 @@
 #!name=Support
-#!desc=用于辅助其他模块或补充
+#!desc=用于辅助其他模块
 #!system=ios
 
 [MITM]
