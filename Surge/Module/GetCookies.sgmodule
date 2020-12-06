@@ -3,13 +3,10 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% cccat.io, wx.10086.cn, daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com, ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, *.youth.cn, ios.baertt.com, mqqapi.reader.qq.com, commontgw6.reader.qq.com, eventv3.reader.qq.com, api.cashtoutiao.com, huodong.fanli.com
+hostname = %APPEND% cccat.io, daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com, ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, *.youth.cn, ios.baertt.com, mqqapi.reader.qq.com, commontgw6.reader.qq.com, eventv3.reader.qq.com, api.cashtoutiao.com, huodong.fanli.com
 
 [Script]
 CCCAT = type=http-request, pattern=https:\/\/cccat\.io, script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
-
-中国移动 = type=http-request, pattern=^http:\/\/wx.10086.cn\/website\/taskCenter\/index\?, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.cookie.js
-中国移动 = type=http-request, pattern=^http:\/\/wx.10086.cn\/website\/taskCenter\/sign\?, script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.cookie.js
 
 京东到家 = type=http-request,pattern=https:\/\/daojia\.jd\.com\/client\?_jdrandom=\d{13}&functionId=%2Fsignin,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js
 
